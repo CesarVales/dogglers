@@ -1,0 +1,120 @@
+07-22 18:09:28.476  5091  5143 I TestRunner: started: clicking_vertical_list_button_displays_vertical_list(com.example.dogglers.ButtonTests)
+07-22 18:09:28.493  5091  5143 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-22 18:09:28.505  1817  1883 D EventSequenceValidator: Transition from INTENT_FAILED to INTENT_STARTED
+07-22 18:09:28.506  1817  4796 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.miservice, com.xiaomi.calendar, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.miui.video, com.miui.videoplayer, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.baidu.BaiduMap, com.google.android.googlequicksearchbox, com.appsomniacs.da2, com.android.stk, com.feiyu.carrot3.mi, com.popcap.pvz2cthdxm, com.mxtech.videoplayer.ad, cn.cisc, com.kiloo.subwaysurf, com.cncyj.mostbrain, pdf.tap.scanner, com.og.ttddz.mi, com.ximalaya.ting.lite, com.google.android.apps.podcasts, com.google.android.apps.googleassistant, com.netease.onmyoji.mi, com.netease.onmyoji.bili, com.netease.mrzh.mi, com.netease.mrzh.bili, com.tencent.tmgp.yys.zqb, com.google.android.gm, com.google.android.calendar, com.android.chrome, com.google.android.apps.youtube.music, com.netease.pes.huawei, com.netease.pes.mi, com.netease.pes.bili, com.flyfish.supermario, com.picsart.studio, com.netease.dwrg.mi, com.netease.dwrg.bili, com.netease.dwrg.nearme.gamecenter, com.netease.dwrg, com.netease.dwrg.huawei, com.tencent.tmgp.dwrg, com.netease.dwrg.m4399, com.netease.dwrg.mz, com.netease.dwrg.aligames, com.netease.dwrg.baidu, com.netease.dwrg.qihoo, com.moji.mjweather, com.tencent.tmgp.kof98, com.netease.onmyoji, com.taobao.idlefish, com.ledou.mhhy.mi, com.hzfy.ddzbs.mi, com.qsmy.walkmonkey, com.fy.bzzbc.mi, com.dw.xprqj.mi, com.miui.accessibility, com.ymt.nbaftx.mi, com.amazon.kindlefc, com.sinyee.babybus.recommendapp, com.mcdonalds.gma.cn, com.midea.ai.appliances, com.eco.global.app, com.inspur.icity.tianjin, com.zy.game.thief.mi, com.alimama.moon, com.xinhu.steward, com.rytong.ceair, com.nxy.mobilebank.gx, com.xplaygame.mfbwz.mi, cn.gov.lottery, com.zy.game.bubbletea.mi, com.zy.game.psdc.mi, com.microsoft.office.powerpoint]
+07-22 18:09:28.507  1817  1883 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+07-22 18:09:29.292   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms
+07-22 18:09:30.389  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10116, uidState = 19
+07-22 18:09:30.984   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.miui.msa.global/com.xiaomi.ad.internal.splash.uiprocess.SplashUIService and for client com.miui.msa.global
+07-22 18:09:30.984   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.miui.msa.global/com.xiaomi.ad.internal.splash.uiprocess.SplashUIServiceafter removal is 0
+07-22 18:09:30.984   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.miui.msa.globalafter removal is 1
+07-22 18:09:30.986   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.miui.msa.global/com.xiaomi.ad.internal.splash.uiprocess.SplashUIService
+07-22 18:09:30.988  5279  5279 E AD-PLUGIN-SplashUIService: onDestroy
+07-22 18:09:30.993  5279  5279 I Process : Sending signal. PID: 5279 SIG: 9
+07-22 18:09:31.053  3307  3362 W AD-PLUGIN-RemoteMethodInvoker: Service[interface com.xiaomi.ad.internal.splash.uiprocess.api.ISplashUIInterface, com.xiaomi.ad.internal.splash.uiprocess.api.ISplashUIInterface$Stub$a@8ea81f4] died, remove from reusing-map!
+07-22 18:09:31.054   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:31.054   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:31.054   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:31.054   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:31.054   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:31.054   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:31.054   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:31.055   830   830 I Zygote  : Process 5279 exited due to signal 9 (Killed)
+07-22 18:09:31.058   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 5279
+07-22 18:09:31.060  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10125 pid 5279 in 6ms
+07-22 18:09:32.354  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+07-22 18:09:33.392  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99180, uidState = 10
+07-22 18:09:34.365  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:09:34.365  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:09:34.366  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:09:34.368  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:09:34.371  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:09:34.372  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:09:34.372  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:09:34.374  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:09:37.294  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-73 rsrp=-100 rsrq=-9 rssnr=18 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:09:37.295  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-73 rsrp=-100 rsrq=-9 rssnr=18 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:09:37.295  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:09:38.611  2947  2969 I .globallaunche: Background concurrent copying GC freed 170384(11MB) AllocSpace objects, 0(0B) LOS objects, 49% free, 11MB/22MB, paused 76us total 110.286ms
+07-22 18:09:39.154  1817  4793 I Process : Sending signal. PID: 5091 SIG: 19
+07-22 18:09:39.168   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:39.168   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:39.168   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:39.168   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:39.168   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:39.168   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:39.168   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:39.171   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 5091
+07-22 18:09:39.178  5036  5036 D AndroidRuntime: Shutting down VM
+07-22 18:09:39.182   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:39.182   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:39.182   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:39.182   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:39.184   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:39.184   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:39.184   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:39.192  5488  5491 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+07-22 18:09:39.197  2910  2910 E PhoneInterfaceManager: [PhoneIntfMgr] getCarrierPackageNamesForIntentAndPhone: No UICC
+07-22 18:09:39.197  2910  2910 D CarrierSvcBindHelper: No carrier app for: 0
+07-22 18:09:39.198  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10173
+07-22 18:09:39.198  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10064, uidState = 19
+07-22 18:09:39.201 25137 25137 D AggregateListener: notifyAction action:android.intent.action.PACKAGE_RESTARTED
+07-22 18:09:39.201 25137 25137 D AggregateListener: onPackageRestarted packageName:com.example.dogglers
+07-22 18:09:39.204  2910  2910 D CarrierSvcBindHelper: No carrier app for: 1
+07-22 18:09:39.213  4350  4350 D RegisteredServicesCache:  Reading service state data always from file
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache: ServiceStateFileVersion=1.0
+07-22 18:09:39.214  4350  4350 E RegisteredServicesCache: Next Tag=services
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache:  curr component com.google.android.gms/com.google.android.gms.nearby.mediums.nearfieldcommunication.NfcAdvertisingService
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache:  curr uid 10195
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache:  curr state 2
+07-22 18:09:39.214  4350  4350 E RegisteredServicesCache: installedServices no uidString
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache:  curr component com.google.android.gms/com.google.android.gms.pay.hce.service.PayHceService
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache:  curr uid 10195
+07-22 18:09:39.214  4350  4350 D RegisteredServicesCache:  curr state 2
+07-22 18:09:39.214  4350  4350 E RegisteredServicesCache: installedServices contains uidString : 10195
+07-22 18:09:39.214  4350  4350 E RegisteredServicesCache: 1invalidateCache:WriteServiceStateToFile
+07-22 18:09:39.215  4350  4350 E RegisteredServicesCache:  Writing service state Data Always
+07-22 18:09:39.215  4350  4350 E RegisteredServicesCache: component namecom.google.android.gms/com.google.android.gms.nearby.mediums.nearfieldcommunication.NfcAdvertisingService
+07-22 18:09:39.216  4350  4350 E RegisteredServicesCache: component namecom.google.android.gms/com.google.android.gms.pay.hce.service.PayHceService
+07-22 18:09:39.220  4350  4350 D RegisteredNfcFServicesCache: Service unchanged, not updating
+07-22 18:09:39.227   830   830 I Zygote  : Process 4198 exited due to signal 9 (Killed)
+07-22 18:09:39.227   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:39.227   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:39.227   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:39.227   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:39.227   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:39.227   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:39.227   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:39.228   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 4198
+07-22 18:09:39.232  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10117
+07-22 18:09:39.240   830   830 I Zygote  : Process 5091 exited due to signal 9 (Killed)
+07-22 18:09:39.243  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10173 pid 5091 in 75ms
+07-22 18:09:39.244  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10117 pid 4198 in 0ms
+07-22 18:09:39.327   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 826
+07-22 18:09:39.333   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 802
+07-22 18:09:39.346   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 778
+07-22 18:09:39.352   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 754
+07-22 18:09:39.362   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 730
+07-22 18:09:39.368   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 706
+07-22 18:09:39.375   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 682
+07-22 18:09:39.385   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 658
+07-22 18:09:39.393   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 634
+07-22 18:09:39.401   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 610
+07-22 18:09:39.411   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 586
+07-22 18:09:39.421   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 562
+07-22 18:09:39.427   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 537
+07-22 18:09:39.435   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 513
+07-22 18:09:39.444   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 489
+07-22 18:09:39.453   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 465
+07-22 18:09:39.462   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 441
+07-22 18:09:39.470   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 417
+07-22 18:09:39.481   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 393
+07-22 18:09:39.487   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 369
+07-22 18:09:39.494   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 345
+07-22 18:09:39.502   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 321
+07-22 18:09:39.510   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 297
+07-22 18:09:39.517   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 273
+07-22 18:09:39.526   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 249
+07-22 18:09:39.534   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 225
+07-22 18:09:39.544   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 206
+07-22 18:09:39.922  5506  5508 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4

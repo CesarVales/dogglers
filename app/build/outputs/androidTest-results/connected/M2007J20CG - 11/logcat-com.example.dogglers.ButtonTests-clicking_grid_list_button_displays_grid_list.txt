@@ -1,0 +1,1683 @@
+07-22 18:08:43.417  5091  5143 I TestRunner: started: clicking_grid_list_button_displays_grid_list(com.example.dogglers.ButtonTests)
+07-22 18:08:43.433  5091  5143 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-22 18:08:43.445  1817  1883 D EventSequenceValidator: Transition from INTENT_FAILED to INTENT_STARTED
+07-22 18:08:43.446  1817  4780 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.miservice, com.xiaomi.calendar, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.miui.video, com.miui.videoplayer, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.baidu.BaiduMap, com.google.android.googlequicksearchbox, com.appsomniacs.da2, com.android.stk, com.feiyu.carrot3.mi, com.popcap.pvz2cthdxm, com.mxtech.videoplayer.ad, cn.cisc, com.kiloo.subwaysurf, com.cncyj.mostbrain, pdf.tap.scanner, com.og.ttddz.mi, com.ximalaya.ting.lite, com.google.android.apps.podcasts, com.google.android.apps.googleassistant, com.netease.onmyoji.mi, com.netease.onmyoji.bili, com.netease.mrzh.mi, com.netease.mrzh.bili, com.tencent.tmgp.yys.zqb, com.google.android.gm, com.google.android.calendar, com.android.chrome, com.google.android.apps.youtube.music, com.netease.pes.huawei, com.netease.pes.mi, com.netease.pes.bili, com.flyfish.supermario, com.picsart.studio, com.netease.dwrg.mi, com.netease.dwrg.bili, com.netease.dwrg.nearme.gamecenter, com.netease.dwrg, com.netease.dwrg.huawei, com.tencent.tmgp.dwrg, com.netease.dwrg.m4399, com.netease.dwrg.mz, com.netease.dwrg.aligames, com.netease.dwrg.baidu, com.netease.dwrg.qihoo, com.moji.mjweather, com.tencent.tmgp.kof98, com.netease.onmyoji, com.taobao.idlefish, com.ledou.mhhy.mi, com.hzfy.ddzbs.mi, com.qsmy.walkmonkey, com.fy.bzzbc.mi, com.dw.xprqj.mi, com.miui.accessibility, com.ymt.nbaftx.mi, com.amazon.kindlefc, com.sinyee.babybus.recommendapp, com.mcdonalds.gma.cn, com.midea.ai.appliances, com.eco.global.app, com.inspur.icity.tianjin, com.zy.game.thief.mi, com.alimama.moon, com.xinhu.steward, com.rytong.ceair, com.nxy.mobilebank.gx, com.xplaygame.mfbwz.mi, cn.gov.lottery, com.zy.game.bubbletea.mi, com.zy.game.psdc.mi, com.microsoft.office.powerpoint]
+07-22 18:08:43.446  1817  1883 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+07-22 18:08:45.203  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:08:45.203  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:08:45.204  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:08:45.206  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:08:45.210  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:08:45.212  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:08:45.212  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:08:45.212  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:08:45.405   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms
+07-22 18:08:45.405   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 6
+07-22 18:08:47.454   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService and for client com.android.systemui
+07-22 18:08:47.454   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileServiceafter removal is 0
+07-22 18:08:47.454   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.systemuiafter removal is 3
+07-22 18:08:47.457   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService
+07-22 18:08:47.465   953  2506 E android.hardware.usb@1.0-service: uevent received SUBSYSTEM=dual_role_usb
+07-22 18:08:47.465   953  2506 I android.hardware.usb@1.0-service: otg_default
+07-22 18:08:47.466   953  2506 I android.hardware.usb@1.0-service: canChangeMode: 1 canChagedata: 0 canChangePower:0
+07-22 18:08:47.494  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:08:47.494  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:08:47.495  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:08:47.496  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:08:47.498  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:08:47.509  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:08:47.509  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:08:47.509  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:08:48.361   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms.persistent
+07-22 18:08:48.538   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.google.android.gms
+07-22 18:08:48.543   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms
+07-22 18:08:48.553   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.CastPersistentBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:08:48.553   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.CastPersistentBoundBrokerServiceafter removal is 0
+07-22 18:08:48.553   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gms.persistentafter removal is 5
+07-22 18:08:48.554   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.chimera.CastPersistentBoundBrokerService
+07-22 18:08:48.561   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:08:48.565  3675  3675 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.cast.firstparty.START dat=chimera-action:com.google.android.gms.cast.firstparty.START cmp=com.google.android.gms/.chimera.CastPersistentBoundBrokerService }
+07-22 18:08:48.640   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:08:48.646  3675  3675 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START dat=chimera-action:com.google.android.gms.clearcut.bootcount.service.START cmp=com.google.android.gms/.chimera.PersistentBoundBrokerService }
+07-22 18:08:48.650   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms.persistent
+07-22 18:08:49.465  2947  2947 W Choreographer: Frame time is 0.184347 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+07-22 18:08:49.465  4767  4767 W Choreographer: Frame time is 0.054504 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+07-22 18:08:49.776   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.googlequicksearchbox:search
+07-22 18:08:49.777   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceafter removal is 10
+07-22 18:08:49.777   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.googlequicksearchbox:searchafter removal is 5
+07-22 18:08:53.404  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:08:53.407  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:08:53.407  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:08:53.408  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:08:53.409  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:08:53.411  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:08:53.411  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:08:53.411  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:08:53.535  1817  2274 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:08:53.535  1817  2274 D CompatibilityInfo: applicationDensity - 440
+07-22 18:08:53.535  1817  2274 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:08:53.537   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.chimera.GmsIntentOperationService
+07-22 18:08:53.545  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 10
+07-22 18:08:53.565  5134  5405 I Authzen : [DeviceStateSyncManager] The server is in sync with current state. Nothing to do
+07-22 18:08:54.105   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 465
+07-22 18:08:54.115   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 441
+07-22 18:08:54.124   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 417
+07-22 18:08:54.130   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 393
+07-22 18:08:54.137   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 369
+07-22 18:08:54.145   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 345
+07-22 18:08:54.151   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 321
+07-22 18:08:54.159   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 297
+07-22 18:08:54.169   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 273
+07-22 18:08:54.177   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 249
+07-22 18:08:54.185   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 225
+07-22 18:08:54.194   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 206
+07-22 18:08:55.553  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102714982, channel 'c532af NavigationBar0 (server)'
+07-22 18:08:55.553  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102714982, channel '1e1bdda com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:08:55.554  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102714982, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:08:55.554  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102714982, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:08:55.554  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102714982, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:08:55.565   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 208
+07-22 18:08:55.569   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 232
+07-22 18:08:55.577   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 256
+07-22 18:08:55.589   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 280
+07-22 18:08:55.594   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 304
+07-22 18:08:55.602   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 328
+07-22 18:08:55.610   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 352
+07-22 18:08:55.618   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 376
+07-22 18:08:55.626  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102715056, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:08:55.626  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102715056, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:08:55.626  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102715056, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:08:55.627   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 401
+07-22 18:08:55.627  2947  3377 I RenderThread: RenderThread resumed
+07-22 18:08:55.627  2947  3377 I RenderThread: All controllers paused.
+07-22 18:08:55.627  2947  3377 I RenderThread: RenderThread paused, waiting for signal
+07-22 18:08:55.635   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 425
+07-22 18:08:55.642   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 449
+07-22 18:08:55.651   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 467
+07-22 18:08:57.337  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+07-22 18:08:57.556  1817  2518 D SchedBoost: thread tid=2947, priority is set to -10
+07-22 18:08:57.557  1817  2518 D SchedBoost: thread tid=3169, priority is set to -10
+07-22 18:09:00.011  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.TIME_TICK
+07-22 18:09:00.020  2659  2659 D KeyguardUpdateMonitor: handleTimeUpdate
+07-22 18:09:00.574   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.chimera.GmsIntentOperationService
+07-22 18:09:00.592  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 13
+07-22 18:09:00.775  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:09:00.777  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:09:00.780  2866  3945 D QCNEJ/WlanStaInfoRelay: Received action: android.net.wifi.RSSI_CHANGED
+07-22 18:09:00.786  2659  2802 D NetworkController: onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+07-22 18:09:01.590  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:09:01.590  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:09:01.593  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:09:01.596  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:09:01.599  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:09:01.599  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:09:01.600  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:09:01.600  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:09:02.341  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+07-22 18:09:03.813  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:09:03.814  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:09:03.817  2866  3945 D QCNEJ/WlanStaInfoRelay: Received action: android.net.wifi.RSSI_CHANGED
+07-22 18:09:03.826  2659  2802 D NetworkController: onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+07-22 18:09:04.719   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 468
+07-22 18:09:04.734   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 469
+07-22 18:09:04.744   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 470
+07-22 18:09:04.759   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 471
+07-22 18:09:04.776   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 472
+07-22 18:09:04.793   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 473
+07-22 18:09:04.801   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 474
+07-22 18:09:04.817   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 475
+07-22 18:09:04.835   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 476
+07-22 18:09:04.851   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 477
+07-22 18:09:04.867   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 478
+07-22 18:09:04.877   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 479
+07-22 18:09:04.893   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 480
+07-22 18:09:04.910   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 481
+07-22 18:09:04.927   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 482
+07-22 18:09:04.936   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 483
+07-22 18:09:04.956   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 484
+07-22 18:09:04.969   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 485
+07-22 18:09:04.985   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 486
+07-22 18:09:04.996   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 487
+07-22 18:09:05.011   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 488
+07-22 18:09:05.026   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 489
+07-22 18:09:05.042   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 490
+07-22 18:09:05.051   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 491
+07-22 18:09:05.068   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 492
+07-22 18:09:05.085   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 493
+07-22 18:09:05.101   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 494
+07-22 18:09:05.111   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 495
+07-22 18:09:05.127   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 496
+07-22 18:09:05.143   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 497
+07-22 18:09:05.153   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 498
+07-22 18:09:05.169   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 499
+07-22 18:09:05.190   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 500
+07-22 18:09:05.207   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 501
+07-22 18:09:05.214   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 502
+07-22 18:09:05.228   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 503
+07-22 18:09:05.244   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 504
+07-22 18:09:05.254   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 505
+07-22 18:09:05.269   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 506
+07-22 18:09:05.285   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 507
+07-22 18:09:05.293   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 508
+07-22 18:09:05.309   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 509
+07-22 18:09:05.325   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 510
+07-22 18:09:05.338   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 511
+07-22 18:09:05.352   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 512
+07-22 18:09:05.367   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 513
+07-22 18:09:05.377   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 514
+07-22 18:09:05.393   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 515
+07-22 18:09:05.412   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 516
+07-22 18:09:05.421   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 517
+07-22 18:09:05.436   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 518
+07-22 18:09:05.456   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 519
+07-22 18:09:05.461   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 520
+07-22 18:09:05.477   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 521
+07-22 18:09:05.494   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 522
+07-22 18:09:05.503   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 523
+07-22 18:09:05.517   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 524
+07-22 18:09:05.528   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 525
+07-22 18:09:05.542   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 526
+07-22 18:09:05.559   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 527
+07-22 18:09:05.570   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 528
+07-22 18:09:05.584   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 529
+07-22 18:09:05.595   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 530
+07-22 18:09:05.609   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 531
+07-22 18:09:05.626   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 532
+07-22 18:09:05.636   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 533
+07-22 18:09:05.651   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 534
+07-22 18:09:05.661   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 535
+07-22 18:09:05.676   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 536
+07-22 18:09:05.693   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 537
+07-22 18:09:05.703   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 538
+07-22 18:09:05.718   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 539
+07-22 18:09:05.727   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 540
+07-22 18:09:05.744   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 541
+07-22 18:09:05.753   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 542
+07-22 18:09:05.768   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 543
+07-22 18:09:05.784   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 544
+07-22 18:09:05.793   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 545
+07-22 18:09:05.809   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 546
+07-22 18:09:05.820   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 547
+07-22 18:09:05.835   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 548
+07-22 18:09:05.845   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 549
+07-22 18:09:05.862   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 550
+07-22 18:09:05.869   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 551
+07-22 18:09:05.890   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 552
+07-22 18:09:05.901   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 553
+07-22 18:09:05.910   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 554
+07-22 18:09:05.926   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 555
+07-22 18:09:05.936   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 556
+07-22 18:09:05.951   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 557
+07-22 18:09:05.961   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 558
+07-22 18:09:05.976   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 559
+07-22 18:09:05.984   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 560
+07-22 18:09:06.003   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 561
+07-22 18:09:06.015   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 562
+07-22 18:09:06.027   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 563
+07-22 18:09:06.036   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 564
+07-22 18:09:06.052   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 565
+07-22 18:09:06.062   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 566
+07-22 18:09:06.077   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 567
+07-22 18:09:06.086   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 568
+07-22 18:09:06.104   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 569
+07-22 18:09:06.112   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 570
+07-22 18:09:06.128   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 571
+07-22 18:09:06.135   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 572
+07-22 18:09:06.151   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 573
+07-22 18:09:06.159   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 574
+07-22 18:09:06.176   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 575
+07-22 18:09:06.188   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 576
+07-22 18:09:06.205   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 577
+07-22 18:09:06.209   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 578
+07-22 18:09:06.220   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 579
+07-22 18:09:06.235   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 580
+07-22 18:09:06.244   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 581
+07-22 18:09:06.260   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 582
+07-22 18:09:06.270   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 583
+07-22 18:09:06.285   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 584
+07-22 18:09:06.293   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 585
+07-22 18:09:06.310   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 586
+07-22 18:09:06.317   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 587
+07-22 18:09:06.334   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 588
+07-22 18:09:06.343   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 589
+07-22 18:09:06.355   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 590
+07-22 18:09:06.368   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 591
+07-22 18:09:06.377   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 592
+07-22 18:09:06.392   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 593
+07-22 18:09:06.403   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 594
+07-22 18:09:06.418   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 595
+07-22 18:09:06.427   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 596
+07-22 18:09:06.435   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 597
+07-22 18:09:06.451   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 598
+07-22 18:09:06.459   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 599
+07-22 18:09:06.476   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 600
+07-22 18:09:06.484   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 601
+07-22 18:09:06.494   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 602
+07-22 18:09:06.509   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 603
+07-22 18:09:06.519   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 604
+07-22 18:09:06.534   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 605
+07-22 18:09:06.543   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 606
+07-22 18:09:06.560   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 607
+07-22 18:09:06.570   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 608
+07-22 18:09:06.578   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 609
+07-22 18:09:06.593   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 610
+07-22 18:09:06.601   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 611
+07-22 18:09:06.611   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 612
+07-22 18:09:06.626   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 613
+07-22 18:09:06.634   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 614
+07-22 18:09:06.652   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 615
+07-22 18:09:06.660   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 616
+07-22 18:09:06.667   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 617
+07-22 18:09:06.685   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 618
+07-22 18:09:06.692   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 619
+07-22 18:09:06.703   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 620
+07-22 18:09:06.720   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 621
+07-22 18:09:06.731   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 622
+07-22 18:09:06.747   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 623
+07-22 18:09:06.755   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 624
+07-22 18:09:06.759   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 625
+07-22 18:09:06.775   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 626
+07-22 18:09:06.784   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 627
+07-22 18:09:06.793   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 628
+07-22 18:09:06.812   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 629
+07-22 18:09:06.819   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 630
+07-22 18:09:06.828   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 631
+07-22 18:09:06.843   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 632
+07-22 18:09:06.853   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 633
+07-22 18:09:06.859   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 634
+07-22 18:09:06.877   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 635
+07-22 18:09:06.886   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 636
+07-22 18:09:06.899   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 637
+07-22 18:09:06.910   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 638
+07-22 18:09:06.917   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 639
+07-22 18:09:06.928   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 640
+07-22 18:09:06.944   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 641
+07-22 18:09:06.955   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 642
+07-22 18:09:06.962   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 643
+07-22 18:09:06.980   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 644
+07-22 18:09:06.986   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 645
+07-22 18:09:06.994   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 646
+07-22 18:09:07.010   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 647
+07-22 18:09:07.020   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 648
+07-22 18:09:07.027   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 649
+07-22 18:09:07.036   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 650
+07-22 18:09:07.054   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 651
+07-22 18:09:07.062   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 652
+07-22 18:09:07.072   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 653
+07-22 18:09:07.085   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 654
+07-22 18:09:07.094   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 655
+07-22 18:09:07.106   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 656
+07-22 18:09:07.110   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 657
+07-22 18:09:07.127   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 658
+07-22 18:09:07.139   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 659
+07-22 18:09:07.145   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 660
+07-22 18:09:07.160   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 661
+07-22 18:09:07.169   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 662
+07-22 18:09:07.177   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 663
+07-22 18:09:07.185   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 664
+07-22 18:09:07.203   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 665
+07-22 18:09:07.212   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 666
+07-22 18:09:07.219   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 667
+07-22 18:09:07.228   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 668
+07-22 18:09:07.243   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 669
+07-22 18:09:07.251   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 670
+07-22 18:09:07.259   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 671
+07-22 18:09:07.276   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 672
+07-22 18:09:07.284   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 673
+07-22 18:09:07.294   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 674
+07-22 18:09:07.303   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 675
+07-22 18:09:07.318   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 676
+07-22 18:09:07.327   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 677
+07-22 18:09:07.335   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 678
+07-22 18:09:07.343   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 679
+07-22 18:09:07.361   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 680
+07-22 18:09:07.369   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 681
+07-22 18:09:07.381   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 682
+07-22 18:09:07.386   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 683
+07-22 18:09:07.402   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 684
+07-22 18:09:07.410   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 685
+07-22 18:09:07.418   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 686
+07-22 18:09:07.427   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 687
+07-22 18:09:07.436   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 688
+07-22 18:09:07.454   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 689
+07-22 18:09:07.462   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 690
+07-22 18:09:07.469   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 691
+07-22 18:09:07.478   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 692
+07-22 18:09:07.494   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 693
+07-22 18:09:07.507   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 694
+07-22 18:09:07.511   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 695
+07-22 18:09:07.520   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 696
+07-22 18:09:07.530   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 697
+07-22 18:09:07.543   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 698
+07-22 18:09:07.555   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 699
+07-22 18:09:07.561   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 700
+07-22 18:09:07.570   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 701
+07-22 18:09:07.577   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 702
+07-22 18:09:07.593   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 703
+07-22 18:09:07.603   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 704
+07-22 18:09:07.614   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 705
+07-22 18:09:07.620   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 706
+07-22 18:09:07.628   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 707
+07-22 18:09:07.643   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 708
+07-22 18:09:07.651   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 709
+07-22 18:09:07.660   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 710
+07-22 18:09:07.667   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 711
+07-22 18:09:07.677   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 712
+07-22 18:09:07.694   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 713
+07-22 18:09:07.702   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 714
+07-22 18:09:07.711   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 715
+07-22 18:09:07.719   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 716
+07-22 18:09:07.727   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 717
+07-22 18:09:07.743   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 718
+07-22 18:09:07.751   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 719
+07-22 18:09:07.761   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 720
+07-22 18:09:07.771   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 721
+07-22 18:09:07.780   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 722
+07-22 18:09:07.787   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 723
+07-22 18:09:07.801   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 724
+07-22 18:09:07.808   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 725
+07-22 18:09:07.818   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 726
+07-22 18:09:07.827   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 727
+07-22 18:09:07.836   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 728
+07-22 18:09:07.844   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 729
+07-22 18:09:07.852   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 730
+07-22 18:09:07.869   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 731
+07-22 18:09:07.878   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 732
+07-22 18:09:07.884   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 733
+07-22 18:09:07.892   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 734
+07-22 18:09:07.900   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 735
+07-22 18:09:07.909   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 736
+07-22 18:09:07.926   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 737
+07-22 18:09:07.935   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 738
+07-22 18:09:07.944   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 739
+07-22 18:09:07.953   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 740
+07-22 18:09:07.961   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 741
+07-22 18:09:07.969   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 742
+07-22 18:09:07.977   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 743
+07-22 18:09:07.985   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 744
+07-22 18:09:08.002   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 745
+07-22 18:09:08.011   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 746
+07-22 18:09:08.021   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 747
+07-22 18:09:08.029   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 748
+07-22 18:09:08.032  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10195, uidState = 5
+07-22 18:09:08.036  3675  4969 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+07-22 18:09:08.036   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 749
+07-22 18:09:08.042   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 750
+07-22 18:09:08.051   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 751
+07-22 18:09:08.067   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 752
+07-22 18:09:08.075   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 753
+07-22 18:09:08.083   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 754
+07-22 18:09:08.091   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 755
+07-22 18:09:08.095   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.romanesco.ContactsLoggerUploadService and for client com.google.android.gms.persistent
+07-22 18:09:08.095   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.romanesco.ContactsLoggerUploadServiceare :1
+07-22 18:09:08.095   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gms.persistentare :6
+07-22 18:09:08.099  1817  4780 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:08.099  1817  4780 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:08.099  1817  4780 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:08.100   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 756
+07-22 18:09:08.101   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.romanesco.ContactsLoggerUploadService
+07-22 18:09:08.102  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 8
+07-22 18:09:08.108  3675  4969 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.romanesco.ContactsLoggerUploadService started execution. cause:2 exec_start_elapsed_seconds: 275923 [CONTEXT service_id=218 ]
+07-22 18:09:08.108   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 757
+07-22 18:09:08.117   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 758
+07-22 18:09:08.125   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 759
+07-22 18:09:08.134   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 760
+07-22 18:09:08.151   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 761
+07-22 18:09:08.159   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 762
+07-22 18:09:08.168   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 763
+07-22 18:09:08.176   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 764
+07-22 18:09:08.184   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 765
+07-22 18:09:08.192   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 766
+07-22 18:09:08.201   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 767
+07-22 18:09:08.209   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 768
+07-22 18:09:08.210   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.lockbox.service.LockboxBrokerService and for client com.google.android.gms
+07-22 18:09:08.210   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.lockbox.service.LockboxBrokerServiceare :1
+07-22 18:09:08.211   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :7
+07-22 18:09:08.211  1817  4780 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:08.211  1817  4780 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:08.211  1817  4780 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:08.212   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.lockbox.service.LockboxBrokerService
+07-22 18:09:08.217   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 769
+07-22 18:09:08.218   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms
+07-22 18:09:08.218   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceare :10
+07-22 18:09:08.218   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :7
+07-22 18:09:08.219   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:09:08.219   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentBoundBrokerServiceare :3
+07-22 18:09:08.219   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gms.persistentare :6
+07-22 18:09:08.225   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms.persistent
+07-22 18:09:08.225   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceare :10
+07-22 18:09:08.225   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gms.persistentare :6
+07-22 18:09:08.227   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 770
+07-22 18:09:08.229   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:08.229   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:09:08.229   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:09:08.230  1817  2211 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:08.230  1817  2211 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:08.230  1817  2211 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:08.230   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:08.242   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 771
+07-22 18:09:08.249   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:08.249   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:09:08.249   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 772
+07-22 18:09:08.249   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:09:08.250   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:08.257   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.google.android.gms
+07-22 18:09:08.258   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.GmsBoundBrokerServiceare :6
+07-22 18:09:08.258   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :7
+07-22 18:09:08.258   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 773
+07-22 18:09:08.261  5134  5180 I PeopleChimeraService: onService. callbacks = anrf@860b61, request = com.google.android.gms.common.internal.GetServiceRequest@e909686
+07-22 18:09:08.267   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 774
+07-22 18:09:08.275   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 775
+07-22 18:09:08.283   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 776
+07-22 18:09:08.286   830   830 D Zygote  : Forked child process 5419
+07-22 18:09:08.290  5419  5419 W Zygote  : Unable to open libbeluga.so: dlopen failed: library "libbeluga.so" not found.
+07-22 18:09:08.291   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 777
+07-22 18:09:08.300   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 778
+07-22 18:09:08.308   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 779
+07-22 18:09:08.310  5419  5419 E d.process.acor: Not starting debugger since process cannot load the jdwp agent.
+07-22 18:09:08.317   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 780
+07-22 18:09:08.323  1817  4780 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:08.323  1817  4780 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:08.323  1817  4780 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:08.327   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 781
+07-22 18:09:08.328  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10064, uidState = 8
+07-22 18:09:08.341   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 782
+07-22 18:09:08.351   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 783
+07-22 18:09:08.359   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 784
+07-22 18:09:08.367   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 785
+07-22 18:09:08.373  5419  5419 I Perf    : Connecting to perf service.
+07-22 18:09:08.376   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 786
+07-22 18:09:08.383   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 787
+07-22 18:09:08.392   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 788
+07-22 18:09:08.381  5419  5419 W d.process.acore: type=1400 audit(0.0:490362): avc: denied { read } for name="u:object_r:vendor_displayfeature_prop:s0" dev="tmpfs" ino=10098 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:vendor_displayfeature_prop:s0 tclass=file permissive=0 app=com.android.calllogbackup
+07-22 18:09:08.392  5419  5419 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-22 18:09:08.393  5419  5419 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-22 18:09:08.395  5419  5419 E libc    : Access denied finding property "ro.vendor.display.type"
+07-22 18:09:08.399  5419  5419 E d.process.acor: Invalid ID 0x00000000.
+07-22 18:09:08.401   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 789
+07-22 18:09:08.404  5419  5419 D miuisdk : current sdk level is 24
+07-22 18:09:08.404  5419  5419 I miuisdk : initialize without hook
+07-22 18:09:08.408   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 790
+07-22 18:09:08.417   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 791
+07-22 18:09:08.422  5419  5419 W Linkify.v16: reflect applyLink failed:
+07-22 18:09:08.422  5419  5419 W Linkify.v16: miui.reflect.NoSuchMethodException: Couldn't find method android/text/util/Linkify.applyLink(Ljava/lang/String;IILandroid/text/Spannable;)V
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.os.Native.getMethod(Native Method)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at miui.reflect.Method.of(Method.java:35)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.v16.Android_Text_Util_Linkify_class.<clinit>(Android_Text_Util_Linkify_class.java:70)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at java.lang.Class.classForName(Native Method)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at java.lang.Class.forName(Class.java:454)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at java.lang.Class.forName(Class.java:379)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.AbsClassFactory.create(AbsClassFactory.java:24)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.Android_Text_Util_Linkify_class$Factory.<init>(Android_Text_Util_Linkify_class.java:40)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.Android_Text_Util_Linkify_class$Factory.<init>(Android_Text_Util_Linkify_class.java:26)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.Android_Text_Util_Linkify_class$Factory$1.createInstance(Android_Text_Util_Linkify_class.java:32)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.Android_Text_Util_Linkify_class$Factory$1.createInstance(Android_Text_Util_Linkify_class.java:29)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at miui.util.SoftReferenceSingleton.get(SoftReferenceSingleton.java:25)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.variable.Android_Text_Util_Linkify_class$Factory.getInstance(Android_Text_Util_Linkify_class.java:44)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.internal.initialization.OverrideHelper.doInitialize(OverrideHelper.java:37)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at miui.core.SdkManager.initialize(SdkManager.java:99)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at java.lang.reflect.Method.invoke(Native Method)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at miui.external.Application.initializeSdk(Application.java:85)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at miui.external.Application.<init>(Application.java:55)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.miui.providers.contacts.ContactsApp.<init>(ContactsApp.java:7)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at java.lang.Class.newInstance(Native Method)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.AppComponentFactory.instantiateApplication(AppComponentFactory.java:76)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.Instrumentation.newApplication(Instrumentation.java:1159)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.LoadedApk.makeApplication(LoadedApk.java:1240)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:6831)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.ActivityThread.access$1400(ActivityThread.java:244)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1959)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.os.Looper.loop(Looper.java:236)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at android.app.ActivityThread.main(ActivityThread.java:7889)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at java.lang.reflect.Method.invoke(Native Method)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:600)
+07-22 18:09:08.422  5419  5419 W Linkify.v16: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:967)
+07-22 18:09:08.426   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 792
+07-22 18:09:08.434   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 793
+07-22 18:09:08.443   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 794
+07-22 18:09:08.451   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 795
+07-22 18:09:08.460  5419  5419 D loading : ContactsProvider2 onCreate uid: 10064 userId:1
+07-22 18:09:08.460   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 796
+07-22 18:09:08.466  5419  5419 D CrashHandler: init
+07-22 18:09:08.475   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 797
+07-22 18:09:08.484   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 798
+07-22 18:09:08.495   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 799
+07-22 18:09:08.500  5419  5419 I ContactsProvider: ContactsProvider2 is initialized: true
+07-22 18:09:08.504   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 800
+07-22 18:09:08.517   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 801
+07-22 18:09:08.530   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 802
+07-22 18:09:08.532   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 803
+07-22 18:09:08.535  5419  5451 D ContactsDatabaseHelper: onOpen: WAL enabled for contacts2.db: true
+07-22 18:09:08.535   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 804
+07-22 18:09:08.538  5419  5419 I ContactsPerf: VoicemailContentProvider.onCreate start
+07-22 18:09:08.543  5419  5419 I ContactsPerf: VoicemailContentProvider.onCreate finish
+07-22 18:09:08.545   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 805
+07-22 18:09:08.547  5419  5454 D FbeUtils: isFbeEnabled(): true
+07-22 18:09:08.551  5419  5451 D T9      : onContactDatabaseOpened
+07-22 18:09:08.552  5419  5451 D SyncAccountUtils: getSelectionWritableData(): readonly types: ('com.whatsapp','com.google.android.apps.tachyon','com.truecaller.account')
+07-22 18:09:08.552   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 806
+07-22 18:09:08.553  5419  5419 V ExtraCallsProvider: registerAccountListener
+07-22 18:09:08.553  5419  5452 D CallLogDatabaseHelper: onOpen: WAL enabled for calllog.db: true
+07-22 18:09:08.553  5419  5452 D T9      : onCallsDatabaseOpened
+07-22 18:09:08.560   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 807
+07-22 18:09:08.570  5419  5419 D T9Provider: onCreate: pid=5419 thread=Thread[main,5,main] calls=null
+07-22 18:09:08.570   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 808
+07-22 18:09:08.572  5419  5454 D CallLogDatabaseHelper: onOpen: WAL enabled for calllog_shadow.db: true
+07-22 18:09:08.576  5419  5454 D T9Provider: releaseLoadLatch: release load latch
+07-22 18:09:08.578  5419  5460 D T9Provider: initialize
+07-22 18:09:08.578  5419  5460 D T9Provider: initialize: wait for load from shadow...
+07-22 18:09:08.578  5419  5460 D T9Provider: start load
+07-22 18:09:08.579   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 809
+07-22 18:09:08.579  5419  5454 I CallLogProvider: CallLog delete: CPID=5419, CallingPackage = com.android.providers.contacts User=0
+07-22 18:09:08.585   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 810
+07-22 18:09:08.587   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:08.587   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:08.587   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:09:08.587   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 0
+07-22 18:09:08.587   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.android.providers.contacts feature:AppClassifier feedback = 0
+07-22 18:09:08.592  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:08.594   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 811
+07-22 18:09:08.595  5419  5460 D T9      : T9Depod load() size 531
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.596  5419  5460 D T9      : setMatchInfo: begin[0] , end[36]
+07-22 18:09:08.597  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[36]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.597  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[3]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.597  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.597  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.598  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 15 lines
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.598  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.599  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.599  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.600  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 8 lines
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.600  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.600   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 812
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.600  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.601  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.601  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.601  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.601  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.601  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.602  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.602  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 6 lines
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.602  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.602  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.603  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 6 lines
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.603  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[41]
+07-22 18:09:08.604  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[41]
+07-22 18:09:08.604  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.605  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 5 lines
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.605  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.605  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.606  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 5 lines
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.606  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 6 lines
+07-22 18:09:08.606  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.607  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 5 lines
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.607  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.607  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.608  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.608  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.608  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 6 lines
+07-22 18:09:08.608  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.608  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.608  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.608  5419  5460 D T9      : setMatchInfo: begin[0] , end[24]
+07-22 18:09:08.609  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[24]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.609  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.609  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.610   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 813
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.610  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.610  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[25]
+07-22 18:09:08.611  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[25]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.611  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.611  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.611  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[27]
+07-22 18:09:08.612  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[27]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[23]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[23]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.612  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.612  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.612  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[23]
+07-22 18:09:08.613  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[23]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.613  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.613  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.613  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.614  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.615  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.616  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.616  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.616  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 6 lines
+07-22 18:09:08.616  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.617   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.googlequicksearchbox:search
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[3]
+07-22 18:09:08.617   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.PersistentApiServiceafter removal is 9
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.617   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.googlequicksearchbox:searchafter removal is 4
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.617  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.617  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.618   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 814
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.618  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[3]
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.618  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.619  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.619  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.619  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.620  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.620  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 4 lines
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.620  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.621  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.621  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[19]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.621  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.622  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.622  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.623  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.624  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.625  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 3 lines
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.625   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 815
+07-22 18:09:08.625  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[27]
+07-22 18:09:08.626  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[27]
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.626  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.626  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[24]
+07-22 18:09:08.627  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 7 lines
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[24]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.627  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.628  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.628  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.628  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.629  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.630  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.630  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.630  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.630  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[24]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[24]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.631  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.631  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.631  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.632  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.632  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.632  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.634   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 816
+07-22 18:09:08.637  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.638  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.638  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.638  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[25]
+07-22 18:09:08.638  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[25]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[3]
+07-22 18:09:08.638  5419  5451 I ContactLocale: AddressBook Labels [[pt_BR]]: […, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Α, Β, Γ, Δ, Ε, Ζ, Η, Θ, Ι, Κ, Λ, Μ, Ν, Ξ, Ο, Π, Ρ, Σ, Τ, Υ, Φ, Χ, Ψ, Ω, …, А, Б, В, Г, Д, Ђ, Е, Є, Ж, З, И, І, Й, Ј, К, Л, Љ, М, Н, Њ, О, П, Р, С, Т, Ћ, У, Ф, Х, Ц, Ч, Џ, Ш, Щ, Ю, Я, …, א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת, …, ا, ب, ت, ث, ج, ح, خ, د, ذ, ر, ز, س, ش, ص, ض, ط, ظ, ع, غ, ف, ق, ك, ل, م, ن, ه, و, ي, …, ก, ข, ฃ, ค, ฅ, ฆ, ง, จ, ฉ, ช, ซ, ฌ, ญ, ฎ, ฏ, ฐ, ฑ, ฒ, ณ, ด, ต, ถ, ท, ธ, น, บ, ป, ผ, ฝ, พ, ฟ, ภ, ม, ย, ร, ฤ, ล, ฦ, ว, ศ, ษ, ส, ห, ฬ, อ, ฮ, …, ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅊ, ㅋ, ㅌ, ㅍ, ㅎ, …, あ, か, さ, た, な, は, ま, や, ら, わ, #, …]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.638  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.638  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[3]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[3]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.639  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 4 lines
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.639  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.640  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.640  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.640  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.640  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.640  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.640  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.641  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[22]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[26]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[26]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.641  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[17]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[16]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[11]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[8]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.641  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.641  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[5]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[9]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[26]
+07-22 18:09:08.642  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[26]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.642   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 817
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[6]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[4]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[15]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.642  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 8 lines
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[13]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[10]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[12]
+07-22 18:09:08.642  5419  5460 D T9      : setMatchInfo: begin[0] , end[7]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.643  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 1 line
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[21]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[18]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[14]
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.643  5419  5460 I chatty  : uid=10064(com.android.calllogbackup) Worker-1 identical 2 lines
+07-22 18:09:08.643  5419  5460 D T9      : setMatchInfo: begin[0] , end[20]
+07-22 18:09:08.650   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 818
+07-22 18:09:08.659   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 819
+07-22 18:09:08.676   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 820
+07-22 18:09:08.684   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 821
+07-22 18:09:08.685  5419  5451 D ContactsDatabaseHelper: onOpen: WAL enabled for profile.db: false
+07-22 18:09:08.692   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 822
+07-22 18:09:08.700   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 823
+07-22 18:09:08.710   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 824
+07-22 18:09:08.714  5419  5451 D loading : addCurProviderIfNecessary return true: 1
+07-22 18:09:08.717   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 825
+07-22 18:09:08.717  5419  5442 D SyncAccountUtils: getSelectionWritableAccountTypes(): readonly types: ('com.whatsapp','com.google.android.apps.tachyon','com.truecaller.account')
+07-22 18:09:08.721  5419  5460 D T9CallLogDepot: updateFirewallItem()
+07-22 18:09:08.727   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 826
+07-22 18:09:08.736   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 827
+07-22 18:09:08.743   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 828
+07-22 18:09:08.752   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 829
+07-22 18:09:08.760   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 830
+07-22 18:09:08.770   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 831
+07-22 18:09:08.772  5419  5460 D T9Provider: [loadT9] load 194 ms
+07-22 18:09:08.780   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 832
+07-22 18:09:08.783   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 833
+07-22 18:09:08.788  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package com.google.android.gms, account type com.google, parser android.content.res.XmlBlock$Parser@267f3b
+07-22 18:09:08.792   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 834
+07-22 18:09:08.794  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:08.799  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package org.telegram.messenger, account type org.telegram.messenger, parser android.content.res.XmlBlock$Parser@585c3b1
+07-22 18:09:08.817  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package com.microsoft.office.outlook, account type com.microsoft.office.outlook.USER_ACCOUNT, parser android.content.res.XmlBlock$Parser@773d417
+07-22 18:09:08.828  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package com.whatsapp, account type com.whatsapp, parser android.content.res.XmlBlock$Parser@481e9ed
+07-22 18:09:08.840  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:08.842  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package us.zoom.videomeetings, account type us.zoom.videomeetings, parser android.content.res.XmlBlock$Parser@5d79ab3
+07-22 18:09:08.846  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package com.google.android.gm, account type com.google.android.gm.exchange, parser null
+07-22 18:09:08.847  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: checking package com.xiaomi.account, account type com.xiaomi, parser null
+07-22 18:09:08.847  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: [ALL] com.google, org.telegram.messenger, com.whatsapp, us.zoom.videomeetings
+07-22 18:09:08.847  5419  5451 D SyncAccountUtils: queryReadonlyAccountTypes: [FINAL] org.telegram.messenger, com.whatsapp, us.zoom.videomeetings
+07-22 18:09:08.862  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:09.265  5419  5442 I chatty  : uid=10064(com.android.calllogbackup) Binder:5419_3 identical 18 lines
+07-22 18:09:09.291  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:09.317  5134  5415 I ReadContactsHelper: Group ID : starting fetch of Groups [CONTEXT service_id=135 ]
+07-22 18:09:09.321  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:09.607  5419  5442 I chatty  : uid=10064(com.android.calllogbackup) Binder:5419_3 identical 6 lines
+07-22 18:09:09.647  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:09.782  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:09:09.782  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:09:09.784  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:09:09.786  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:09:09.788  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:09:09.788  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:09:09.788  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:09:09.789  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:09:09.852  1817  1831 W System  : A resource failed to call release.
+07-22 18:09:09.852  1817  1831 I chatty  : uid=1000(system) FinalizerDaemon identical 1 line
+07-22 18:09:09.852  1817  1831 W System  : A resource failed to call release.
+07-22 18:09:09.852  1817  1831 W System  : A resource failed to call dispose.
+07-22 18:09:09.852  1817  1831 W System  : A resource failed to call release.
+07-22 18:09:09.854  1817  1831 I chatty  : uid=1000(system) FinalizerDaemon identical 14 lines
+07-22 18:09:09.854  1817  1831 W System  : A resource failed to call release.
+07-22 18:09:10.713  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10064, uidState = 15
+07-22 18:09:12.660  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10064, uidState = 8
+07-22 18:09:12.663  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:12.664  5419  5442 D SyncAccountUtils: getSelectionWritableAccountTypes(): readonly types: ('org.telegram.messenger','com.whatsapp','us.zoom.videomeetings')
+07-22 18:09:12.676  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:12.702  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:12.766   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.766   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:09:12.766   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:09:12.766  1817  4582 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:12.766  1817  4582 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:12.766  1817  4582 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:12.767   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.796   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.796   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:09:12.796   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:09:12.797   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.806   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.806   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:09:12.806   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:09:12.807  1817  4796 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:12.807  1817  4796 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:12.807  1817  4796 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:12.809   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.829   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.829   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:09:12.829   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:09:12.830   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.839   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.840   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:09:12.840   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:09:12.840  1817  4796 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:12.840  1817  4796 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:12.840  1817  4796 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:12.842   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.866   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.866   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:09:12.866   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:09:12.866   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.874   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.874   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:09:12.874   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:09:12.875  1817  4582 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:12.875  1817  4582 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:12.875  1817  4582 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:12.876   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.902   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.903   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:09:12.903   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:09:12.904   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.913   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.913   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:09:12.913   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:09:12.914  1817  4793 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:12.914  1817  4793 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:12.914  1817  4793 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:12.915   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.941   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:09:12.941   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:09:12.941   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:09:12.942   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:09:12.963  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:13.015  5419  5442 I chatty  : uid=10064(com.android.calllogbackup) Binder:5419_3 identical 2 lines
+07-22 18:09:13.035  5419  5442 I ContactsProvider: Contacts query: CPID=5134, CallingPackage = com.google.android.gms User=0
+07-22 18:09:13.037  5419  5442 W SQLiteLog: (28) double-quoted string literal: "com.google"
+07-22 18:09:13.038  5419  5442 W SQLiteLog: (28) double-quoted string literal: "com.google"
+07-22 18:09:13.113   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.gcm.http.GoogleHttpService and for client com.google.android.gms
+07-22 18:09:13.113   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.gcm.http.GoogleHttpServiceare :1
+07-22 18:09:13.113   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :8
+07-22 18:09:13.113  1817  2211 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:13.113  1817  2211 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:13.113  1817  2211 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:13.114   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.gcm.http.GoogleHttpService
+07-22 18:09:13.125  5134  5415 E dhvo    : *~*~*~ Channel {0} was not shutdown properly!!! ~*~*~*
+07-22 18:09:13.125  5134  5415 E dhvo    :     Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+07-22 18:09:13.125  5134  5415 E dhvo    : java.lang.RuntimeException: ManagedChannel allocation site
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at dhvn.<init>(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at dhvo.<init>(:com.google.android.gms@222615037@22.26.15 (150400-461192076):2)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at dhnz.a(:com.google.android.gms@222615037@22.26.15 (150400-461192076):22)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at xhq.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):22)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at xhq.e(:com.google.android.gms@222615037@22.26.15 (150400-461192076):1)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at bdrc.a(:com.google.android.gms@222615037@22.26.15 (150400-461192076):7)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at com.google.android.gms.reachability.ReachabilityDataSyncIntentOperation.onHandleIntent(:com.google.android.gms@222615037@22.26.15 (150400-461192076):47)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@222615037@22.26.15 (150400-461192076):2)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at uzc.onHandleIntent(:com.google.android.gms@222615037@22.26.15 (150400-461192076):4)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at ffs.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at ffr.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):11)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at cfnu.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):2)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:09:13.125  5134  5415 E dhvo    : 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:09:13.128   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.GetToken and for client com.google.android.gms
+07-22 18:09:13.128   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.GetTokenare :1
+07-22 18:09:13.128   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :9
+07-22 18:09:13.129  1817  2211 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:13.129  1817  2211 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:13.129  1817  2211 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:13.130   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.GetToken
+07-22 18:09:13.143   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms.persistent
+07-22 18:09:13.143   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentApiServiceare :9
+07-22 18:09:13.143   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gms.persistentare :6
+07-22 18:09:13.167   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.be.appcert.AppCertService and for client com.google.android.gms
+07-22 18:09:13.167   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.be.appcert.AppCertServiceare :1
+07-22 18:09:13.167   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :10
+07-22 18:09:13.167  1817  2211 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:09:13.167  1817  2211 D CompatibilityInfo: applicationDensity - 440
+07-22 18:09:13.168  1817  2211 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:09:13.169   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.be.appcert.AppCertService
+07-22 18:09:13.252  5134  5413 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+07-22 18:09:13.253  5134  5413 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@222615037@22.26.15 (150400-461192076):2)
+07-22 18:09:13.253  5134  5413 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:09:13.409  5134  5413 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+07-22 18:09:13.410  5134  5413 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@222615037@22.26.15 (150400-461192076):2)
+07-22 18:09:13.410  5134  5413 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:09:14.099  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10064, uidState = 15
+07-22 18:09:14.246  5134  5415 I ContactsLogger: Full upload request complete, uploaded contacts count : 523 [CONTEXT service_id=135 ]
+07-22 18:09:14.336   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.romanesco.ContactsLoggerUploadService and for client com.google.android.gms.persistent
+07-22 18:09:14.336   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.romanesco.ContactsLoggerUploadServiceafter removal is 0
+07-22 18:09:14.337   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gms.persistentafter removal is 5
+07-22 18:09:14.337   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.romanesco.ContactsLoggerUploadService
+07-22 18:09:14.338  3675  4969 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.romanesco.ContactsLoggerUploadService finished executing. cause:2 result: 1 elapsed_millis: 6257 uptime_millis: 6257 exec_start_elapsed_seconds: 275923 [CONTEXT service_id=218 ]
+07-22 18:09:14.347  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 13
+07-22 18:09:16.562   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 827
+07-22 18:09:16.571   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 803
+07-22 18:09:16.578   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 779
+07-22 18:09:16.591   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 755
+07-22 18:09:16.594   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 731
+07-22 18:09:16.601   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 707
+07-22 18:09:16.609   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 683
+07-22 18:09:16.618   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 659
+07-22 18:09:16.627   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 635
+07-22 18:09:16.636   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 611
+07-22 18:09:16.644   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 587
+07-22 18:09:16.653   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 563
+07-22 18:09:16.661   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 539
+07-22 18:09:16.670   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 515
+07-22 18:09:16.680   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 491
+07-22 18:09:16.685   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 467
+07-22 18:09:16.694   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 443
+07-22 18:09:16.703   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 419
+07-22 18:09:16.710   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 395
+07-22 18:09:16.718   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 370
+07-22 18:09:16.727   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 346
+07-22 18:09:16.736   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 322
+07-22 18:09:16.745   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 298
+07-22 18:09:16.752   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 274
+07-22 18:09:16.759   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 250
+07-22 18:09:16.770   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 226
+07-22 18:09:16.776   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 206
+07-22 18:09:17.977  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:09:17.979  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:09:17.979  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:09:17.979  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:09:17.983  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:09:17.986  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:09:17.986  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:09:17.986  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:09:18.038  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10195, uidState = 5
+07-22 18:09:18.111  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102737540, channel 'c532af NavigationBar0 (server)'
+07-22 18:09:18.111  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102737540, channel '1e1bdda com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:09:18.112  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102737540, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:09:18.112  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102737540, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:09:18.112  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102737540, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:09:18.121   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 208
+07-22 18:09:18.128   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 232
+07-22 18:09:18.134   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 256
+07-22 18:09:18.137   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.gcm.http.GoogleHttpService and for client com.google.android.gms
+07-22 18:09:18.137   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.gcm.http.GoogleHttpServiceafter removal is 0
+07-22 18:09:18.137   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 9
+07-22 18:09:18.139   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.gcm.http.GoogleHttpService
+07-22 18:09:18.142   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 280
+07-22 18:09:18.151   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 304
+07-22 18:09:18.160   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 328
+07-22 18:09:18.168   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.GetToken and for client com.google.android.gms
+07-22 18:09:18.168   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.GetTokenafter removal is 0
+07-22 18:09:18.168   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 8
+07-22 18:09:18.169   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.GetToken
+07-22 18:09:18.170   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 352
+07-22 18:09:18.174   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.174   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.174   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:09:18.174   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:09:18.174   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:18.176   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:18.176   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:18.176   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.176   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:09:18.176   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:09:18.176   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:09:18.178   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 377
+07-22 18:09:18.184  2947  3377 I RenderThread: RenderThread resumed
+07-22 18:09:18.184  2947  3377 I RenderThread: All controllers paused.
+07-22 18:09:18.184  2947  3377 I RenderThread: RenderThread paused, waiting for signal
+07-22 18:09:18.185   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 401
+07-22 18:09:18.193   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 425
+07-22 18:09:18.197   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.be.appcert.AppCertService and for client com.google.android.gms
+07-22 18:09:18.197   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.be.appcert.AppCertServiceafter removal is 0
+07-22 18:09:18.197   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 7
+07-22 18:09:18.198   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.be.appcert.AppCertService
+07-22 18:09:18.202   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 449
+07-22 18:09:18.210   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 473
+07-22 18:09:18.218   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 497
+07-22 18:09:18.229   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 521
+07-22 18:09:18.235   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 545
+07-22 18:09:18.244   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 569
+07-22 18:09:18.245  2947  3169 W RenderInspector: QueueBuffer time out on com.mi.android.globallauncher/com.miui.home.launcher.Launcher, count=1, avg=9 ms, max=9 ms.
+07-22 18:09:18.251   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 593
+07-22 18:09:18.261   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 617
+07-22 18:09:18.268   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 641
+07-22 18:09:18.277   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 665
+07-22 18:09:18.285   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 689
+07-22 18:09:18.294   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 713
+07-22 18:09:18.301   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 737
+07-22 18:09:18.310   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 762
+07-22 18:09:18.318   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 786
+07-22 18:09:18.325   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 810
+07-22 18:09:18.333   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 834
+07-22 18:09:18.373  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102737802, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:09:18.373  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102737802, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:09:18.373  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102737802, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:09:18.374   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.374   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.374   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:09:18.374   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:09:18.374   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:09:18.375   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.375   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.375   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:18.375   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:18.375   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:18.375   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:18.375   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:18.375   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.375   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.375   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:09:18.376   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:09:18.376   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:09:18.376   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:09:18.376   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:09:18.376   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:09:18.376   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:09:18.379   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:09:18.379   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:09:23.259   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:09:23.264   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms.persistent
+07-22 18:09:23.376  1817  2518 D SchedBoost: thread tid=2947, priority is set to -10
+07-22 18:09:23.377  1817  2518 D SchedBoost: thread tid=3169, priority is set to -10
+07-22 18:09:25.675   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.googlequicksearchbox:search
+07-22 18:09:25.675   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceare :11
+07-22 18:09:25.675   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.googlequicksearchbox:searchare :5
+07-22 18:09:26.180  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:09:26.181  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:09:26.181  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:09:26.183  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:09:26.188  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:09:26.193  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:09:26.193  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:09:26.193  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:09:27.350  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+07-22 18:09:27.840   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.google.android.gms
+07-22 18:09:28.093   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.lockbox.service.LockboxBrokerService and for client com.google.android.gms
+07-22 18:09:28.093   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.lockbox.service.LockboxBrokerServiceafter removal is 0
+07-22 18:09:28.093   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 6
+07-22 18:09:28.094   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.lockbox.service.LockboxBrokerService
+07-22 18:09:28.165   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms.persistent
+07-22 18:09:28.451  5091  5143 E TestRunner: failed: clicking_grid_list_button_displays_grid_list(com.example.dogglers.ButtonTests)
+07-22 18:09:28.451  5091  5143 E TestRunner: ----- begin exception -----
+07-22 18:09:28.456  5091  5143 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[DESTROYED, CREATED, RESUMED, STARTED]" (last lifecycle transition = "PRE_ON_CREATE")
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+07-22 18:09:28.456  5091  5143 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2213)
+07-22 18:09:28.456  5091  5143 E TestRunner: ----- end exception -----
+07-22 18:09:28.465  5091  5143 I TestRunner: finished: clicking_grid_list_button_displays_grid_list(com.example.dogglers.ButtonTests)

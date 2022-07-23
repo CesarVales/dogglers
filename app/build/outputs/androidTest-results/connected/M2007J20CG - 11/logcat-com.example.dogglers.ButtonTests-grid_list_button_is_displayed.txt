@@ -1,0 +1,927 @@
+07-22 18:07:13.280  5091  5143 I TestRunner: started: grid_list_button_is_displayed(com.example.dogglers.ButtonTests)
+07-22 18:07:13.281  4256  4377 I Finsky  : [22603] yqj.a(29): Skipping Gramophone warning due to shell install
+07-22 18:07:13.288  5091  5143 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-22 18:07:13.290   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.android.vending/com.google.android.finsky.verifier.impl.PackageVerificationService
+07-22 18:07:13.295   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:13.295   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:13.295   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:13.295   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:13.295   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:13.295   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:13.295   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:13.296   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:13.296   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:13.296   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:13.296   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:13.296   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:13.296   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:13.296   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:13.297  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 19
+07-22 18:07:13.326  1817  1883 D EventSequenceValidator: Transition from ACTIVITY_CANCELLED to INTENT_STARTED
+07-22 18:07:13.327   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:13.327   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:13.327   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:13.327   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:13.327   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:13.327   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:13.327   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:13.327   830   830 I Zygote  : Process 1320 exited due to signal 9 (Killed)
+07-22 18:07:13.327  1817  4583 D MiuiMultiWindowAdapter: MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.miui.miservice, com.xiaomi.calendar, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.miui.backup, com.miui.huanji, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health, com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclient, com.miui.securitycore, com.xiaomi.account, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mimoji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.miui.video, com.miui.videoplayer, com.miui.fm, com.miui.packageinstaller, com.mi.android.globallauncher, com.mi.android.globallauncher-poco, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldrun.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mfp.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi, com.tencent.tetris, com.sukhavati.gotoplaying.bubble.BubbleShooter.mint, com.block.puzzle.game.hippo.mi, com.youzu.bs.mi, com.baidu.BaiduMap, com.google.android.googlequicksearchbox, com.appsomniacs.da2, com.android.stk, com.feiyu.carrot3.mi, com.popcap.pvz2cthdxm, com.mxtech.videoplayer.ad, cn.cisc, com.kiloo.subwaysurf, com.cncyj.mostbrain, pdf.tap.scanner, com.og.ttddz.mi, com.ximalaya.ting.lite, com.google.android.apps.podcasts, com.google.android.apps.googleassistant, com.netease.onmyoji.mi, com.netease.onmyoji.bili, com.netease.mrzh.mi, com.netease.mrzh.bili, com.tencent.tmgp.yys.zqb, com.google.android.gm, com.google.android.calendar, com.android.chrome, com.google.android.apps.youtube.music, com.netease.pes.huawei, com.netease.pes.mi, com.netease.pes.bili, com.flyfish.supermario, com.picsart.studio, com.netease.dwrg.mi, com.netease.dwrg.bili, com.netease.dwrg.nearme.gamecenter, com.netease.dwrg, com.netease.dwrg.huawei, com.tencent.tmgp.dwrg, com.netease.dwrg.m4399, com.netease.dwrg.mz, com.netease.dwrg.aligames, com.netease.dwrg.baidu, com.netease.dwrg.qihoo, com.moji.mjweather, com.tencent.tmgp.kof98, com.netease.onmyoji, com.taobao.idlefish, com.ledou.mhhy.mi, com.hzfy.ddzbs.mi, com.qsmy.walkmonkey, com.fy.bzzbc.mi, com.dw.xprqj.mi, com.miui.accessibility, com.ymt.nbaftx.mi, com.amazon.kindlefc, com.sinyee.babybus.recommendapp, com.mcdonalds.gma.cn, com.midea.ai.appliances, com.eco.global.app, com.inspur.icity.tianjin, com.zy.game.thief.mi, com.alimama.moon, com.xinhu.steward, com.rytong.ceair, com.nxy.mobilebank.gx, com.xplaygame.mfbwz.mi, cn.gov.lottery, com.zy.game.bubbletea.mi, com.zy.game.psdc.mi, com.microsoft.office.powerpoint]
+07-22 18:07:13.328  1817  1883 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+07-22 18:07:13.329   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 1320
+07-22 18:07:13.329   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: process with pid 1320 is client
+07-22 18:07:13.329   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: removing client with pid 1320process namecom.google.android.apps.turbo
+07-22 18:07:13.331   830   830 I Zygote  : Process 446 exited due to signal 9 (Killed)
+07-22 18:07:13.331  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10189 pid 1320 in 37ms
+07-22 18:07:13.332  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10083 pid 446 in 0ms
+07-22 18:07:13.334   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:13.334   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:13.334   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:13.334   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:13.334   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:13.334   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:13.334   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:13.335   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 446
+07-22 18:07:13.338  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10189
+07-22 18:07:13.338  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10083
+07-22 18:07:14.103  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102613532, channel 'c532af NavigationBar0 (server)'
+07-22 18:07:14.103  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102613532, channel '1e1bdda com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:07:14.103  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102613532, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:07:14.103  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102613532, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:07:14.103  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102613532, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:07:14.215  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102613645, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:07:14.215  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102613645, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:07:14.215  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102613645, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:07:14.216  2947  3377 I RenderThread: RenderThread resumed
+07-22 18:07:14.216  2947  3377 I RenderThread: All controllers paused.
+07-22 18:07:14.216  2947  3377 I RenderThread: RenderThread paused, waiting for signal
+07-22 18:07:14.442  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-77 rsrp=-106 rsrq=-9 rssnr=11 cqi=2147483647 ta=2147483647 miuiLevel=3 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:14.443  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-77 rsrp=-106 rsrq=-9 rssnr=11 cqi=2147483647 ta=2147483647 miuiLevel=3 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:14.443  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 3
+07-22 18:07:15.096  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:15.099  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:15.102  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:15.103  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:15.103  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:15.106  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:15.106  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:15.106  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:15.797   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.measurement.service.MeasurementBrokerService and for client com.miui.securitycenter
+07-22 18:07:15.798   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.measurement.service.MeasurementBrokerServiceafter removal is 2
+07-22 18:07:15.798   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.miui.securitycenterafter removal is 1
+07-22 18:07:15.959  1817  2003 E system_server: No implementation found for boolean com.android.internal.os.KernelCpuUidBpfMapReader.startTrackingBpfTimes() (tried Java_com_android_internal_os_KernelCpuUidBpfMapReader_startTrackingBpfTimes and Java_com_android_internal_os_KernelCpuUidBpfMapReader_startTrackingBpfTimes__)
+07-22 18:07:16.107  1817  2518 D SchedBoost: thread tid=2947, priority is set to -10
+07-22 18:07:16.108  1817  2518 D SchedBoost: thread tid=3169, priority is set to -10
+07-22 18:07:16.192   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.games.chimera.GamesAsyncServiceProxy
+07-22 18:07:16.270  4256  4376 I Finsky  : [22602] prv.h(1): Triggered update for experiment package com.google.android.finsky.stable.
+07-22 18:07:16.322  4256  5156 E PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+07-22 18:07:16.322  4256  4299 I SnapshotHandler: Unable to retrieve flag snapshot for com.google.android.gms.phenotype, using defaults.
+07-22 18:07:16.351  4256  5156 E PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+07-22 18:07:16.498  4256  5156 I chatty  : uid=10184(com.android.vending) ProcessStablePh identical 8 lines
+07-22 18:07:16.505  4256  5156 E PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+07-22 18:07:16.505  4256  4376 I Finsky  : [22602] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.stable.
+07-22 18:07:16.505  4256  4377 I Finsky  : [22603] prv.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+07-22 18:07:16.514  4256  5156 E PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+07-22 18:07:16.722  4256  4377 I Finsky  : [22603] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.regular.
+07-22 18:07:16.723  4256  4377 I Finsky  : [22603] prv.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+07-22 18:07:16.857  4256  4918 I android.vendin: oneway function results will be dropped but finished with status UNKNOWN_TRANSACTION and parcel size 0
+07-22 18:07:16.858   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidService and for client com.android.vending
+07-22 18:07:16.858   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidServiceafter removal is 0
+07-22 18:07:16.858   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.vendingafter removal is 3
+07-22 18:07:16.864   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidService
+07-22 18:07:16.865  4485  4485 I Finsky:background: [2] lzz.onDestroy(8): IPC-SERVER: Stopping gRPC host service...
+07-22 18:07:16.878  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 10
+07-22 18:07:16.881  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 19
+07-22 18:07:16.939  4256  4377 I Finsky  : [22603] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.regular.
+07-22 18:07:16.939  4256  4377 I Finsky  : [22603] prv.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.087  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-73 rsrp=-101 rsrq=-10 rssnr=6 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:17.087  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-73 rsrp=-101 rsrq=-10 rssnr=6 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:17.087  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:17.095  2659  2802 D NetworkController.MobileSignalController(1): notifyListeners mConfig.alwaysShowNetworkTypeIcon=false  getNetworkType:13/LTE voiceNetType=13/LTE showDataIcon=false mConfig.alwaysShowDataRatIcon=false icons.mDataType=2131232019 mConfig.showVolteIcon=false isVolteSwitchOn=false volteIcon=0 mConfig.showVowifiIcon=false
+07-22 18:07:17.150  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.155  4256  4377 I Finsky  : [22603] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.155  4256  4376 W android.vendin: Long monitor contention with owner bgExecutor #3 (4377) at int prv.h()(PG:8) waiters=2 in int prv.h() for 650ms
+07-22 18:07:17.156  4256  4376 I Finsky  : [22602] prv.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.165  4683  4766 I om.miui.cleane: ProcessProfilingInfo new_methods=0 is saved saved_to_disk=0 resolve_classes_delay=8000
+07-22 18:07:17.165  4256  4377 I Finsky  : [22603] flr.run(16): Initializing the instant apps module.
+07-22 18:07:17.190  4256  4377 I Finsky  : [22603] ypw.b(1): Restoring notifications
+07-22 18:07:17.197  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.197  4256  4299 I chatty  : uid=10184(com.android.vending) BlockingExecuto identical 1 line
+07-22 18:07:17.206  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.213  4256  4377 I Finsky  : [22603] ypw.b(4): Done restoring notifications
+07-22 18:07:17.217  4256  4377 I Finsky  : [22603] pjc.n(8): Invalidating cached PackageState for com.android.vending
+07-22 18:07:17.223  4256  4636 I Finsky  : [22645] jso.run(33): Wrote row to frosting DB: 3017
+07-22 18:07:17.252  4256  4377 W Finsky  : [22603] qup.a(5): PreloadClasses: Unable to load [androidx.compose.ui.node.LayoutNode$layoutChildren$1, androidx.compose.foundation.lazy.LazyListScopeImpl$items$1, androidx.compose.foundation.lazy.LazyListScopeImpl$items$1$1, androidx.compose.foundation.gestures.TapGestureDetectorKt$awaitFirstDown$1, androidx.compose.material.DefaultButtonElevation$elevation$1$invokeSuspend$$inlined$collect$1]
+07-22 18:07:17.259  4256  4377 I Finsky  : [22603] flr.run(36): Component class com.google.android.finsky.wearsupport.WearSupportService disabled via PackageManager.
+07-22 18:07:17.260  4256  4377 I Finsky  : [22603] flr.run(36): Component class com.google.android.finsky.wearsupport.WearChangeListenerService disabled via PackageManager.
+07-22 18:07:17.280  4256  4703 I Finsky  : [22652] advb.c(2): registerListener
+07-22 18:07:17.280  4256  4703 I Finsky  : [22652] iqd.g(1): getDownloads()
+07-22 18:07:17.290  4256  4256 I Finsky  : [2] sjp.run(22): Detected restoreservicev2://recovery not needed, will not run
+07-22 18:07:17.293   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidService and for client com.android.vending
+07-22 18:07:17.293   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidServiceare :1
+07-22 18:07:17.293   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.android.vendingare :4
+07-22 18:07:17.294  1817  4835 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:07:17.294  1817  4835 D CompatibilityInfo: applicationDensity - 440
+07-22 18:07:17.294  1817  4835 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:07:17.295   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidService
+07-22 18:07:17.296  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 10
+07-22 18:07:17.297  4485  4485 I Finsky:background: [2] lzz.onCreate(2): IPC-SERVER: Starting gRPC host service...
+07-22 18:07:17.300  4256  4703 I Finsky  : [22652] rg.run(15): Initialized AssetModuleDownloader.
+07-22 18:07:17.303  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 19
+07-22 18:07:17.306  4485  4557 I Finsky:background: [22586] inr.f(1): getDownloads()
+07-22 18:07:17.371   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.miui.msa.global/com.xiaomi.ad.internal.splash.uiprocess.SplashUIService and for client com.miui.msa.global
+07-22 18:07:17.371   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.miui.msa.global/com.xiaomi.ad.internal.splash.uiprocess.SplashUIServiceafter removal is 0
+07-22 18:07:17.371   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.miui.msa.globalafter removal is 1
+07-22 18:07:17.373   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.miui.msa.global/com.xiaomi.ad.internal.splash.uiprocess.SplashUIService
+07-22 18:07:17.374  3203  3203 E AD-PLUGIN-SplashUIService: onDestroy
+07-22 18:07:17.378  3203  3203 I Process : Sending signal. PID: 3203 SIG: 9
+07-22 18:07:17.391  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.392  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.403  4256  4376 I Finsky  : [22602] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.406  4256  4353 I Finsky  : [22597] prv.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.409  3307  3362 W AD-PLUGIN-RemoteMethodInvoker: Service[interface com.xiaomi.ad.internal.splash.uiprocess.api.ISplashUIInterface, com.xiaomi.ad.internal.splash.uiprocess.api.ISplashUIInterface$Stub$a@38685e2] died, remove from reusing-map!
+07-22 18:07:17.411   830   830 I Zygote  : Process 3203 exited due to signal 9 (Killed)
+07-22 18:07:17.411   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:17.411   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:17.411   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:17.411   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:17.411   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:17.411   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:17.411   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:17.411  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10125 pid 3203 in 0ms
+07-22 18:07:17.413   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 3203
+07-22 18:07:17.463  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.463  4256  4299 I chatty  : uid=10184(com.android.vending) BlockingExecuto identical 1 line
+07-22 18:07:17.474  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.605  5039  5127 I TetheringManager: registerTetheringEventCallback:com.android.camera
+07-22 18:07:17.650  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.650  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.654  4256  4353 I Finsky  : [22597] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.655  4256  4310 I Finsky  : [22590] prv.h(1): Triggered update for experiment package com.google.android.finsky.regular.
+07-22 18:07:17.665  4824  4889 I ctivate.servic: ProcessProfilingInfo new_methods=0 is saved saved_to_disk=0 resolve_classes_delay=8000
+07-22 18:07:17.683  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.873  4256  4299 I chatty  : uid=10184(com.android.vending) BlockingExecuto identical 3 lines
+07-22 18:07:17.873  4256  4299 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+07-22 18:07:17.877  4256  4310 I Finsky  : [22590] prv.h(7): Already at the latest configurations for experiment package com.google.android.finsky.regular.
+07-22 18:07:18.039   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.chimera.PersistentIntentOperationService
+07-22 18:07:18.095   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.chimera.GmsIntentOperationService
+07-22 18:07:18.813  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10330, uidState = 19
+07-22 18:07:18.936  4931  4959 I ndroid.keychai: ProcessProfilingInfo new_methods=0 is saved saved_to_disk=0 resolve_classes_delay=8000
+07-22 18:07:19.220  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10116, uidState = 19
+07-22 18:07:19.334  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-10 rssnr=16 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:19.334  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-10 rssnr=16 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:19.334  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:19.439   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.measurement.service.MeasurementBrokerService and for client com.mi.android.globallauncher
+07-22 18:07:19.439   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.measurement.service.MeasurementBrokerServiceafter removal is 1
+07-22 18:07:19.440   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.mi.android.globallauncherafter removal is 1
+07-22 18:07:19.444  5832  5950 I BtGatt.ScanManager: msg.what = 6
+07-22 18:07:19.445  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 5
+07-22 18:07:19.445  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10195, uidState = 5
+07-22 18:07:19.901   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.permissioncontroller/com.android.permissioncontroller.permission.service.PermissionControllerServiceImpl and for client system
+07-22 18:07:20.113  5039  5065 I .android.camer: ProcessProfilingInfo new_methods=0 is saved saved_to_disk=0 resolve_classes_delay=8000
+07-22 18:07:20.121   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.measurement.service.MeasurementBrokerService and for client com.miui.cleaner
+07-22 18:07:20.121   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.measurement.service.MeasurementBrokerServiceafter removal is 0
+07-22 18:07:20.121   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.miui.cleanerafter removal is 0
+07-22 18:07:20.121   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.measurement.service.MeasurementBrokerService
+07-22 18:07:20.122  5134  5134 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+07-22 18:07:20.754  5091  5111 I xample.doggler: WaitForGcToComplete blocked RunEmptyCheckpoint on ProfileSaver for 10.150ms
+07-22 18:07:20.760  5091  5142 I xample.doggler: ProcessProfilingInfo new_methods=224 is saved saved_to_disk=1 resolve_classes_delay=8000
+07-22 18:07:20.880   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.permissioncontroller/com.android.permissioncontroller.permission.service.PermissionControllerServiceImpl and for client system
+07-22 18:07:20.880   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.permissioncontroller/com.android.permissioncontroller.permission.service.PermissionControllerServiceImplafter removal is 0
+07-22 18:07:20.880   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 19
+07-22 18:07:20.884   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.permissioncontroller/com.android.permissioncontroller.permission.service.PermissionControllerServiceImpl
+07-22 18:07:21.475   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.android.vending
+07-22 18:07:21.475   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.PersistentBoundBrokerServiceafter removal is 3
+07-22 18:07:21.475   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.vendingafter removal is 3
+07-22 18:07:21.539   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.android.vending
+07-22 18:07:21.540   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceafter removal is 10
+07-22 18:07:21.545   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.android.vending
+07-22 18:07:21.546   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.GmsBoundBrokerServiceafter removal is 7
+07-22 18:07:21.546   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.vendingafter removal is 2
+07-22 18:07:23.104   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms.persistent
+07-22 18:07:23.288  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:23.289  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:23.290  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:23.293  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:23.294  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:23.296  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:23.297  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:23.297  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:23.670  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-104 rsrq=-10 rssnr=8 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:23.671  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-104 rsrq=-10 rssnr=8 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:23.671  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:24.159   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms
+07-22 18:07:24.159   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 10
+07-22 18:07:24.169   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms
+07-22 18:07:24.178   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:07:24.184   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms.persistent
+07-22 18:07:24.292   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.google.android.gms.persistent
+07-22 18:07:24.293   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.GmsBoundBrokerServiceafter removal is 6
+07-22 18:07:24.293   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gms.persistentafter removal is 8
+07-22 18:07:24.306   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:24.307   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:24.307   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:24.307   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:24.307   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:24.307   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:24.307   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:24.312  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10117, uidState = 19
+07-22 18:07:24.318   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.lockbox.service.LockboxBrokerService and for client com.google.android.gms.persistent
+07-22 18:07:24.318   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.lockbox.service.LockboxBrokerServiceafter removal is 1
+07-22 18:07:24.318   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gms.persistentafter removal is 7
+07-22 18:07:24.323   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.icing.service.AppIndexingService and for client com.google.android.gms.persistent
+07-22 18:07:24.323   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.icing.service.AppIndexingServiceafter removal is 1
+07-22 18:07:24.323   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gms.persistentafter removal is 6
+07-22 18:07:24.326   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.icing.service.IndexService and for client com.google.android.gms.persistent
+07-22 18:07:24.326   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.icing.service.IndexServiceafter removal is 1
+07-22 18:07:24.326   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gms.persistentafter removal is 5
+07-22 18:07:24.330  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 13
+07-22 18:07:24.341   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.GmsBoundBrokerService and for client com.google.android.gms
+07-22 18:07:24.359   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:24.359   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:24.359   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:24.359   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:24.359   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:24.360   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:24.360   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:24.360   830   830 I Zygote  : Process 3507 exited due to signal 9 (Killed)
+07-22 18:07:24.361   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 3507
+07-22 18:07:24.363  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10233 pid 3507 in 57ms
+07-22 18:07:24.366  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10233
+07-22 18:07:24.402   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.lockbox.service.LockboxBrokerService and for client com.google.android.gms
+07-22 18:07:24.402   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.lockbox.service.LockboxBrokerServiceafter removal is 0
+07-22 18:07:24.402   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 9
+07-22 18:07:24.404   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.lockbox.service.LockboxBrokerService
+07-22 18:07:24.406   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms
+07-22 18:07:24.406   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 8
+07-22 18:07:24.936   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.permissioncontroller/com.android.permissioncontroller.role.service.RoleControllerServiceImpl and for client system
+07-22 18:07:24.936   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.permissioncontroller/com.android.permissioncontroller.role.service.RoleControllerServiceImplafter removal is 0
+07-22 18:07:24.936   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:07:24.945   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.permissioncontroller/com.android.permissioncontroller.role.service.RoleControllerServiceImpl
+07-22 18:07:24.951  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10100, uidState = 10
+07-22 18:07:24.954  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10100, uidState = 19
+07-22 18:07:25.832 31813 31813 D SecurityCenter: ImageLoader clear memory info
+07-22 18:07:25.908  4767  4767 W Choreographer: Frame time is 0.01094 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+07-22 18:07:25.980   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms
+07-22 18:07:25.988   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:25.988   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:25.988   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:25.988   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:25.993   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:25.993   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:25.993   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:26.042   830   830 I Zygote  : Process 3440 exited due to signal 9 (Killed)
+07-22 18:07:26.042   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:26.043   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:26.043   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:26.043   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:26.043   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:26.043   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:26.043   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:26.044  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10069 pid 3440 in 50ms
+07-22 18:07:26.045   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 3440
+07-22 18:07:26.052  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10069
+07-22 18:07:26.140   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.icing.service.IndexService and for client com.google.android.gms
+07-22 18:07:26.140   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.icing.service.IndexServiceafter removal is 0
+07-22 18:07:26.140   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 7
+07-22 18:07:26.143   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.icing.service.IndexService
+07-22 18:07:26.145  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 10
+07-22 18:07:26.151  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 13
+07-22 18:07:26.249   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.icing.service.AppIndexingService and for client com.google.android.gms
+07-22 18:07:26.249   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.icing.service.AppIndexingServiceafter removal is 0
+07-22 18:07:26.249   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.gmsafter removal is 6
+07-22 18:07:26.254   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.icing.service.AppIndexingService
+07-22 18:07:26.258  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 10
+07-22 18:07:26.263  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 99167, uidState = 13
+07-22 18:07:26.628  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 19
+07-22 18:07:27.317  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+07-22 18:07:27.352  4256  4277 I android.vendin: oneway function results will be dropped but finished with status UNKNOWN_TRANSACTION and parcel size 0
+07-22 18:07:27.353   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidService and for client com.android.vending
+07-22 18:07:27.353   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidServiceafter removal is 0
+07-22 18:07:27.353   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.vendingafter removal is 1
+07-22 18:07:27.358   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.android.vending/com.google.android.finsky.ipcservers.background.BackgroundGrpcServerAndroidService
+07-22 18:07:27.363  4485  4485 I Finsky:background: [2] lzz.onDestroy(8): IPC-SERVER: Stopping gRPC host service...
+07-22 18:07:27.371  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 10
+07-22 18:07:27.373  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 19
+07-22 18:07:28.342   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.android.vending
+07-22 18:07:28.342   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.android.vendingafter removal is 0
+07-22 18:07:28.357   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:28.357   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:28.357   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:28.357   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:28.357   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:28.357   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:28.357   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:28.402   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:28.402   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:28.402   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:28.402   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:28.403   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:28.403   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:28.403   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:28.403   830   830 I Zygote  : Process 3573 exited due to signal 9 (Killed)
+07-22 18:07:28.404   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 3573
+07-22 18:07:28.404   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: process with pid 3573 is client
+07-22 18:07:28.404   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: removing client with pid 3573process namecom.google.android.projection.gearhead:car
+07-22 18:07:28.406  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10196 pid 3573 in 49ms
+07-22 18:07:28.410  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10196
+07-22 18:07:29.495 31813 31813 D SecurityCenter: ImageLoader clear memory info
+07-22 18:07:31.472  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:31.473  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:31.474  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:31.475  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:31.477  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:31.482  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:31.482  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:31.482  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:32.319  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=false,enabled=true,mNetworkPriorityMode=0
+07-22 18:07:32.821  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-104 rsrq=-12 rssnr=5 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:32.823  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-104 rsrq=-12 rssnr=5 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:32.823  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:34.352  3675  3019 I CastDatabase: Saving the database
+07-22 18:07:34.362  3675  3019 I SQLiteCastStore: [CastNetworkInfo] saved: 0, skipped: 0, [CastDeviceInfo]: saved 0, skipped 0, [Paired Guest Mode DeviceInfo] saved: 0, skipped: 0. [ProbedNetworks]: saved 0, skipped: 0, [ProbedSocketAddress]: saved 0, skipped: 0, [Network-Device pairs]: saved: 0
+07-22 18:07:34.401   830   830 D Zygote  : Forked child process 5179
+07-22 18:07:34.404  5179  5179 W Zygote  : Unable to open libbeluga.so: dlopen failed: library "libbeluga.so" not found.
+07-22 18:07:34.422  5179  5179 E roid.apps.turb: Not starting debugger since process cannot load the jdwp agent.
+07-22 18:07:34.437  1817  5485 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:07:34.437  1817  5485 D CompatibilityInfo: applicationDensity - 440
+07-22 18:07:34.437  1817  5485 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:07:34.438  1817  5485 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:07:34.438  1817  5485 D CompatibilityInfo: applicationDensity - 440
+07-22 18:07:34.438  1817  5485 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:07:34.441  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10189, uidState = 11
+07-22 18:07:34.492  5179  5179 I Perf    : Connecting to perf service.
+07-22 18:07:34.507  5179  5179 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-22 18:07:34.508  5179  5179 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-22 18:07:34.553   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.apps.turbo
+07-22 18:07:34.553   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceare :11
+07-22 18:07:34.553   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.apps.turboare :1
+07-22 18:07:34.555   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.555   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.555   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:07:34.556   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 0
+07-22 18:07:34.556   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.google.android.apps.turbo feature:AppClassifier feedback = 0
+07-22 18:07:34.565   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.565   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.565   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:34.565   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:34.565   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:34.565   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:34.565   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:34.567   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.568   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.568   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:34.568   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:34.568   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:34.568   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:34.568   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:34.570   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.570   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.570   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:34.570   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:34.570   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:34.570   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:34.570   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:34.573  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10189, uidState = 19
+07-22 18:07:34.573  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10109, uidState = 19
+07-22 18:07:34.611   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.611   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.612   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:34.612   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:34.612   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:34.612   830   830 I Zygote  : Process 4011 exited due to signal 9 (Killed)
+07-22 18:07:34.612   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:34.612   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:34.613   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 4011
+07-22 18:07:34.613   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: process with pid 4011 is client
+07-22 18:07:34.613   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: removing client with pid 4011process namecom.google.android.gms.unstable
+07-22 18:07:34.619   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.619   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.619   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:34.619   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:34.620   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:34.620   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:34.620   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:34.621   830   830 I Zygote  : Process 15305 exited due to signal 9 (Killed)
+07-22 18:07:34.621   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 15305
+07-22 18:07:34.621   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: process with pid 15305 is client
+07-22 18:07:34.621   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: removing client with pid 15305process namecom.android.settings
+07-22 18:07:34.624  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 15305 in 60ms
+07-22 18:07:34.625  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10195 pid 4011 in 0ms
+07-22 18:07:34.647  1431 15320 D NuPlayerDriver: reset(0xf5d1e2e0) at state 4
+07-22 18:07:34.647   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:34.647   830   830 I Zygote  : Process 3539 exited due to signal 9 (Killed)
+07-22 18:07:34.647   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:34.647   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:34.647   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:34.647   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:34.647   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:34.647   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:34.647  1817  1984 I libprocessgroup: Successfully killed process cgroup uid 10285 pid 3539 in 21ms
+07-22 18:07:34.648   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: killProcess is called for pid : 3539
+07-22 18:07:34.648   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: process with pid 3539 is client
+07-22 18:07:34.648   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: removing client with pid 3539process namecom.microsoft.office.outlook
+07-22 18:07:34.648  1431  3873 D NuPlayerDriver: notifyResetComplete(0xf5d1e2e0)
+07-22 18:07:34.654  1817  2395 I MiuiNetworkPolicy: removeUidState uid = 10285
+07-22 18:07:35.147  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-102 rsrq=-10 rssnr=9 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:35.148  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-102 rsrq=-10 rssnr=9 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:35.148  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:35.228   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1331
+07-22 18:07:35.235   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1307
+07-22 18:07:35.243   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1283
+07-22 18:07:35.248   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1259
+07-22 18:07:35.262   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1211
+07-22 18:07:35.268   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1187
+07-22 18:07:35.278   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1163
+07-22 18:07:35.286   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1138
+07-22 18:07:35.295   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1114
+07-22 18:07:35.304   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1090
+07-22 18:07:35.312   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1066
+07-22 18:07:35.321   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1042
+07-22 18:07:35.330   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1018
+07-22 18:07:35.346   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 994
+07-22 18:07:35.349   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 970
+07-22 18:07:35.352   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 946
+07-22 18:07:35.364   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 922
+07-22 18:07:35.371   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 898
+07-22 18:07:35.378   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 874
+07-22 18:07:35.386   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 850
+07-22 18:07:35.395   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 826
+07-22 18:07:35.403   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 802
+07-22 18:07:35.414   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 777
+07-22 18:07:35.420   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 753
+07-22 18:07:35.428   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 729
+07-22 18:07:35.435   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 705
+07-22 18:07:35.445   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 681
+07-22 18:07:35.454   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 657
+07-22 18:07:35.461   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 633
+07-22 18:07:35.469   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 609
+07-22 18:07:35.478   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 585
+07-22 18:07:35.487   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 561
+07-22 18:07:35.498   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 537
+07-22 18:07:35.504   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 512
+07-22 18:07:35.512   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 488
+07-22 18:07:35.519   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 464
+07-22 18:07:35.528   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 440
+07-22 18:07:35.537   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 416
+07-22 18:07:35.545   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 392
+07-22 18:07:35.554   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 368
+07-22 18:07:35.562   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 344
+07-22 18:07:35.571   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 320
+07-22 18:07:35.579   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 295
+07-22 18:07:35.586   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 271
+07-22 18:07:35.595   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 247
+07-22 18:07:35.604   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 224
+07-22 18:07:35.617   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 206
+07-22 18:07:36.775  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102636204, channel 'c532af NavigationBar0 (server)'
+07-22 18:07:36.775  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x4, 102636204, channel '1e1bdda com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:07:36.775  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102636204, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:07:36.775  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102636204, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:07:36.776  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x0, 102636204, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:07:36.786   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 221
+07-22 18:07:36.796   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 245
+07-22 18:07:36.805   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.805   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.805   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:07:36.805   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:07:36.805   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.807   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:07:36.807   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:36.807   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:36.807   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:36.807   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:07:36.807   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:07:36.811   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 269
+07-22 18:07:36.811  2947  3377 I RenderThread: RenderThread resumed
+07-22 18:07:36.811  2947  3377 I RenderThread: All controllers paused.
+07-22 18:07:36.811  2947  3377 I RenderThread: RenderThread paused, waiting for signal
+07-22 18:07:36.821   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 316
+07-22 18:07:36.827   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 341
+07-22 18:07:36.834   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 365
+07-22 18:07:36.846   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 389
+07-22 18:07:36.852   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 413
+07-22 18:07:36.861   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 437
+07-22 18:07:36.868   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 461
+07-22 18:07:36.874  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102636303, channel '68ec8f7 com.mi.android.globallauncher/com.miui.home.launcher.Launcher (server)'
+07-22 18:07:36.874  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102636303, channel 'fa606f1 com.miui.miwallpaper.wallpaperservice.MiuiKeyguardPictorialWallpaper (server)'
+07-22 18:07:36.874  1817  2326 D MIUIInput: [MotionEvent] publisher action=0x1, 102636303, channel '1efad35 com.miui.miwallpaper.wallpaperservice.ImageWallpaper (server)'
+07-22 18:07:36.876   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 485
+07-22 18:07:36.879   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.879   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.879   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:07:36.879   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:07:36.880   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:07:36.881   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.881   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.881   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:36.881   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:36.881   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:36.881   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:36.881   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:36.882   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.882   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.882   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:07:36.882   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:07:36.882   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:07:36.883   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.883   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.883   969   969 I ANDR-PERF-LM: WQ: push() 59: LMTriggerQ push() size=0
+07-22 18:07:36.883   969   969 I ANDR-PERF-LM: WQ: push() 61: LMTriggerQ push() done size=1
+07-22 18:07:36.883   969  1000 I ANDR-PERF-LM: WQ: pop() 42: LMTriggerQ pop() done size=0
+07-22 18:07:36.883   969  1000 I ANDR-PERF-LM: Core: lmMain() 373: Waiting on trigger Queue
+07-22 18:07:36.883   969  1000 I ANDR-PERF-LM: WQ: pop() 31: LMTriggerQ pop() size=0
+07-22 18:07:36.883   969   969 I ANDR-PERF-LM: LMPerfGlue: perfmodule_submit_request() 132: perfmodule_submit_request()
+07-22 18:07:36.883   969   969 I ANDR-PERF-LM: Core: getInstance() 84: LM getInstance
+07-22 18:07:36.883   969   969 D ANDR-PERF-LM: Feature: lookup() 101: Feature Name = AppClassifier, total featuers = 3, featureFound = 1
+07-22 18:07:36.884   969   969 D ANDR-PERF-LM: Feature: getData() 112: data.data = 1
+07-22 18:07:36.884   969   969 I ANDR-PERF-LM: FeedbackAPI: getFeedback() 60: app:com.mi.android.globallauncher feature:AppClassifier feedback = 1
+07-22 18:07:36.885   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 509
+07-22 18:07:36.893   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 533
+07-22 18:07:36.902   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 557
+07-22 18:07:36.909   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 581
+07-22 18:07:36.918   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 605
+07-22 18:07:36.921  2947  3169 W RenderInspector: QueueBuffer time out on com.mi.android.globallauncher/com.miui.home.launcher.Launcher, count=1, avg=10 ms, max=10 ms.
+07-22 18:07:36.926   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 629
+07-22 18:07:36.935   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 653
+07-22 18:07:36.943   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 677
+07-22 18:07:36.951   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 701
+07-22 18:07:36.960   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 725
+07-22 18:07:36.970   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 750
+07-22 18:07:36.977   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 774
+07-22 18:07:36.985   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 798
+07-22 18:07:36.993   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 822
+07-22 18:07:37.001   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 846
+07-22 18:07:37.009   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 870
+07-22 18:07:37.018   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 894
+07-22 18:07:37.027   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 918
+07-22 18:07:37.035   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 942
+07-22 18:07:37.043   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 966
+07-22 18:07:37.053   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 990
+07-22 18:07:37.060   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1014
+07-22 18:07:37.068   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1038
+07-22 18:07:37.077   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1062
+07-22 18:07:37.085   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1087
+07-22 18:07:37.093   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1111
+07-22 18:07:37.101   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1135
+07-22 18:07:37.110   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1159
+07-22 18:07:37.118   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1183
+07-22 18:07:37.127   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1207
+07-22 18:07:37.135   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1231
+07-22 18:07:37.143   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1256
+07-22 18:07:37.152   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1280
+07-22 18:07:37.160   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1304
+07-22 18:07:37.168   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1328
+07-22 18:07:37.177   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1352
+07-22 18:07:37.185   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1353
+07-22 18:07:37.898  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:07:37.901  2659  2802 D NetworkController: onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+07-22 18:07:37.902  2866  3945 D QCNEJ/WlanStaInfoRelay: Received action: android.net.wifi.RSSI_CHANGED
+07-22 18:07:37.905  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:07:39.483  5179  5209 I roid.apps.turb: Waiting for a blocking GC ProfileSaver
+07-22 18:07:39.492  5179  5209 I roid.apps.turb: WaitForGcToComplete blocked ProfileSaver on AddRemoveAppImageSpace for 9.291ms
+07-22 18:07:39.501  5179  5202 I roid.apps.turb: WaitForGcToComplete blocked RunEmptyCheckpoint on ProfileSaver for 8.445ms
+07-22 18:07:39.664  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:39.665  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:39.665  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:39.666  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:39.668  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:39.673  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:39.673  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:39.673  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:40.719  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 1000, uidState = 0
+07-22 18:07:40.928  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:07:40.929  1817  2483 D SlaveWifiManager: getWifiSlaveConnectionInfo
+07-22 18:07:40.932  2866  3945 D QCNEJ/WlanStaInfoRelay: Received action: android.net.wifi.RSSI_CHANGED
+07-22 18:07:40.936  2659  2802 D NetworkController: onReceive: intent=Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras) }
+07-22 18:07:41.537   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.apps.turbo
+07-22 18:07:41.538   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentApiServiceare :10
+07-22 18:07:41.538   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.apps.turboare :2
+07-22 18:07:41.600   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.gms.persistent
+07-22 18:07:41.600   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceare :11
+07-22 18:07:41.600   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gms.persistentare :5
+07-22 18:07:41.884  1817  2518 D SchedBoost: thread tid=2947, priority is set to -10
+07-22 18:07:41.884  1817  2518 D SchedBoost: thread tid=3169, priority is set to -10
+07-22 18:07:42.904  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:42.904  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:42.904  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:42.904  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:42.909  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:42.910  4996  4996 I PowerUtils: getChargerType: USB
+07-22 18:07:42.910  4996  4996 I PowerOffUI: charger type = USB
+07-22 18:07:42.926  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:42.926  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:42.926  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:44.346  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-73 rsrp=-103 rsrq=-12 rssnr=5 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:44.347  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-73 rsrp=-103 rsrq=-12 rssnr=5 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:44.347  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:46.597  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-10 rssnr=9 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:46.598  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-10 rssnr=9 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:46.598  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:46.756   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.gms
+07-22 18:07:46.756   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.chimera.PersistentApiServiceare :10
+07-22 18:07:46.756   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : com.google.android.gmsare :7
+07-22 18:07:47.326   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:07:47.326   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:07:47.326   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:07:47.327  1817  5487 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:07:47.327  1817  5487 D CompatibilityInfo: applicationDensity - 440
+07-22 18:07:47.327  1817  5487 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:07:47.329   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:07:47.358   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:07:47.358   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:07:47.358   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:07:47.359   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:07:47.365   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:07:47.365   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceare :1
+07-22 18:07:47.365   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:07:47.366  1817  5487 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:07:47.366  1817  5487 D CompatibilityInfo: applicationDensity - 440
+07-22 18:07:47.366  1817  5487 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:07:47.367   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:07:47.392   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService and for client system
+07-22 18:07:47.392   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorServiceafter removal is 0
+07-22 18:07:47.392   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:07:47.393   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.google.android.gms/.auth.account.authenticator.GoogleAccountAuthenticatorService
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: Error inserting flex_time=3599000 job_id=-1 period=7200000 source=16 requires_charging=0 preferred_network_type=1 target_class=com.google.android.gms.measurement.PackageMeasurementTaskService user_id=0 target_package=com.google.android.gms tag=Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG task_type=0 required_idleness_state=0 service_kind=0 source_version=222615000 persistence_level=1 preferred_charging_state=1 required_network_type=0 runtime=1658524067698 retry_strategy={"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}} last_runtime=0 [CONTEXT service_id=218 ]
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1701)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertOrThrow(SQLiteDatabase.java:1596)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at bexn.g(:com.google.android.gms@222615037@22.26.15 (150400-461192076):52)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at bewg.n(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at bewg.u(:com.google.android.gms@222615037@22.26.15 (150400-461192076):20)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at bewg.h(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at berx.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):9)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at xoc.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):6)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at xoc.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):7)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at xth.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:07:47.713  3675  4969 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:07:47.863  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:47.863  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:47.864  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:47.865  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:47.870  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:47.873  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:47.873  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:47.873  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: Error inserting flex_time=3599000 job_id=-1 period=7200000 source=16 requires_charging=0 preferred_network_type=1 target_class=com.google.android.gms.measurement.PackageMeasurementTaskService user_id=0 target_package=com.google.android.gms tag=Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG task_type=0 required_idleness_state=0 service_kind=0 source_version=222615000 persistence_level=1 preferred_charging_state=1 required_network_type=0 runtime=1658524068251 retry_strategy={"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}} last_runtime=0 [CONTEXT service_id=218 ]
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1701)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertOrThrow(SQLiteDatabase.java:1596)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at bexn.g(:com.google.android.gms@222615037@22.26.15 (150400-461192076):52)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at bewg.n(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at bewg.u(:com.google.android.gms@222615037@22.26.15 (150400-461192076):20)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at bewg.h(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at berx.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):9)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at xoc.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):6)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at xoc.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):7)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at xth.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:07:48.257  3675  3461 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: Error inserting flex_time=3599000 job_id=-1 period=7200000 source=16 requires_charging=0 preferred_network_type=1 target_class=com.google.android.gms.measurement.PackageMeasurementTaskService user_id=0 target_package=com.google.android.gms tag=Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG task_type=0 required_idleness_state=0 service_kind=0 source_version=222615000 persistence_level=1 preferred_charging_state=1 required_network_type=0 runtime=1658524068860 retry_strategy={"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}} last_runtime=0 [CONTEXT service_id=218 ]
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1701)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertOrThrow(SQLiteDatabase.java:1596)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at bexn.g(:com.google.android.gms@222615037@22.26.15 (150400-461192076):52)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at bewg.n(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at bewg.u(:com.google.android.gms@222615037@22.26.15 (150400-461192076):20)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at bewg.h(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at berx.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):9)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at xoc.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):6)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at xoc.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):7)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at xth.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:07:48.864  3675  4969 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:07:49.354  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10104, uidState = 10
+07-22 18:07:49.355  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10100, uidState = 19
+07-22 18:07:49.436   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain and for client system
+07-22 18:07:49.436   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMainare :1
+07-22 18:07:49.436   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:07:49.437  1817  1817 D CompatibilityInfo: mCompatibilityFlags - 0
+07-22 18:07:49.437  1817  1817 D CompatibilityInfo: applicationDensity - 440
+07-22 18:07:49.437  1817  1817 D CompatibilityInfo: applicationScale - 1.0
+07-22 18:07:49.439  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 8
+07-22 18:07:49.440   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain
+07-22 18:07:49.471   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain and for client system
+07-22 18:07:49.471   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMainare :1
+07-22 18:07:49.472   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: total connections for client : systemare :19
+07-22 18:07:49.474  4256  4256 I Finsky  : [2] rww.onStartJob(4): SCH: job service start with id 9167.
+07-22 18:07:49.478  4256  4256 I Finsky  : [2] rww.onStartJob(4): SCH: job service start with id 9174.
+07-22 18:07:49.488  4256  5225 I Finsky  : [22668] rva.a(45): SCH: Satisfied jobs for 9167 are: 29-29
+07-22 18:07:49.493  4256  5226 I Finsky  : [22669] rew.accept(8): SCH: Job 29-29 starting
+07-22 18:07:49.495  4256  5225 I Finsky  : [22668] rva.a(45): SCH: Satisfied jobs for 9174 are: 12-1
+07-22 18:07:49.498  4256  5227 I Finsky  : [22670] wob.f(0): ProcessRecoveryLogsUtil: No files in recovery directory
+07-22 18:07:49.499  4256  5227 I Finsky  : [22670] rve.r(4): SCH: jobFinished: 29-29. TimeElapsed: 5ms.
+07-22 18:07:49.505  4256  4256 I Finsky  : [2] rew.accept(8): SCH: Job 12-1 starting
+07-22 18:07:49.508  4256  4256 I Finsky  : [2] ContentSyncJob.v(3): [ContentSync] job started
+07-22 18:07:49.517  4256  4377 I Finsky  : [22603] rou.accept(43): SCH: Scheduling phonesky job Id: 26-1414141414, CT: 1658506114476, Constraints: [{ L: 43200000, D: 44100000, C: 1, I: 1, N: 0 }]
+07-22 18:07:49.523  4256  4376 I Finsky  : [22602] roq.apply(22): SCH: Scheduling 1 system job(s)
+07-22 18:07:49.524  4256  4376 I Finsky  : [22602] roq.apply(28): SCH: Scheduling system job Id: 9222, L: 25244953, D: 26144953, C: false, I: false, N: 0
+07-22 18:07:49.563  4256  5226 I Finsky  : [22669] rww.a(16): SCH: job service finished with id 9167.
+07-22 18:07:49.565   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain and for client system
+07-22 18:07:50.618  4256  5228 W Finsky  : [22671] pjc.p(70): Package com.android.apex.cts.shim not installed
+07-22 18:07:50.623  4256  5228 W Finsky  : [22671] pjc.p(70): Package com.android.art not installed
+07-22 18:07:50.637  4256  5228 W Finsky  : [22671] pjc.p(70): Package com.android.runtime not installed
+07-22 18:07:50.641  4256  5228 W Finsky  : [22671] pjc.p(70): Package com.android.i18n not installed
+07-22 18:07:50.646  4256  5228 W Finsky  : [22671] pjc.p(70): Package com.android.vndk.v30 not installed
+07-22 18:07:50.649  4256  5228 W Finsky  : [22671] pjc.p(70): Package com.android.wifi not installed
+07-22 18:07:50.729  1817  1831 W System  : A resource failed to call release.
+07-22 18:07:50.729  1817  1831 I chatty  : uid=1000(system) FinalizerDaemon identical 1 line
+07-22 18:07:50.729  1817  1831 W System  : A resource failed to call release.
+07-22 18:07:50.890  4256  5231 I Finsky  : [22674] frc.i(1): Completed 0 account content syncs with 0 successful.
+07-22 18:07:50.891  4256  4256 I Finsky  : [2] ContentSyncJob.a(1): [ContentSync] Installation state replication succeeded.
+07-22 18:07:50.891  4256  4256 I Finsky  : [2] rve.r(4): SCH: jobFinished: 12-1. TimeElapsed: 1383ms.
+07-22 18:07:50.904  4256  4310 I Finsky  : [22590] rou.accept(43): SCH: Scheduling phonesky job Id: 1-1337, CT: 1658483534349, Constraints: [{ L: 41114768, D: 84314768, C: 1, I: 1, N: 1 }]
+07-22 18:07:50.904  4256  4310 I Finsky  : [22590] rou.accept(43): SCH: Scheduling phonesky job Id: 34-51, CT: 1658501118831, Constraints: [{ L: 79199551, D: 1375199551, C: 1, I: 1, N: 1 }]
+07-22 18:07:50.910  4256  4376 I Finsky  : [22602] roq.apply(22): SCH: Scheduling 1 system job(s)
+07-22 18:07:50.911  4256  4376 I Finsky  : [22602] roq.apply(28): SCH: Scheduling system job Id: 9223, L: 578207, D: 43778207, C: false, I: false, N: 1
+07-22 18:07:50.919  4256  5226 I Finsky  : [22669] rww.a(16): SCH: job service finished with id 9174.
+07-22 18:07:50.921   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain and for client system
+07-22 18:07:50.921   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMainafter removal is 0
+07-22 18:07:50.921   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: systemafter removal is 18
+07-22 18:07:50.922   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.android.vending/com.google.android.finsky.scheduler.process.mainimpl.PhoneskyJobServiceMain
+07-22 18:07:50.924  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 10
+07-22 18:07:50.947  1817  2395 I MiuiNetworkPolicy: updateUidState uid = 10184, uidState = 19
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: Error inserting flex_time=3599000 job_id=-1 period=7200000 source=16 requires_charging=0 preferred_network_type=1 target_class=com.google.android.gms.measurement.PackageMeasurementTaskService user_id=0 target_package=com.google.android.gms tag=Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG task_type=0 required_idleness_state=0 service_kind=0 source_version=222615000 persistence_level=1 preferred_charging_state=1 required_network_type=0 runtime=1658524071311 retry_strategy={"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}} last_runtime=0 [CONTEXT service_id=218 ]
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1701)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertOrThrow(SQLiteDatabase.java:1596)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at bexn.g(:com.google.android.gms@222615037@22.26.15 (150400-461192076):52)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at bewg.n(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at bewg.u(:com.google.android.gms@222615037@22.26.15 (150400-461192076):20)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at bewg.h(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at berx.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):9)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at xoc.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):6)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at xoc.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):8)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at xth.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:07:51.316  3675  3019 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: Error inserting flex_time=3599000 job_id=-1 period=7200000 source=16 requires_charging=0 preferred_network_type=1 target_class=com.google.android.gms.measurement.PackageMeasurementTaskService user_id=0 target_package=com.google.android.gms tag=Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG task_type=0 required_idleness_state=0 service_kind=0 source_version=222615000 persistence_level=1 preferred_charging_state=1 required_network_type=0 runtime=1658524071692 retry_strategy={"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}} last_runtime=0 [CONTEXT service_id=218 ]
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1701)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertOrThrow(SQLiteDatabase.java:1596)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at bexn.g(:com.google.android.gms@222615037@22.26.15 (150400-461192076):52)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at bewg.n(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at bewg.u(:com.google.android.gms@222615037@22.26.15 (150400-461192076):20)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at bewg.h(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at berx.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):9)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at xoc.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):6)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at xoc.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):7)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at xth.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:07:51.697  3675  4969 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: Error inserting flex_time=3599000 job_id=-1 period=7200000 source=16 requires_charging=0 preferred_network_type=1 target_class=com.google.android.gms.measurement.PackageMeasurementTaskService user_id=0 target_package=com.google.android.gms tag=Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG task_type=0 required_idleness_state=0 service_kind=0 source_version=222615000 persistence_level=1 preferred_charging_state=1 required_network_type=0 runtime=1658524072234 retry_strategy={"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}} last_runtime=0 [CONTEXT service_id=218 ]
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertWithOnConflict(SQLiteDatabase.java:1701)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at android.database.sqlite.SQLiteDatabase.insertOrThrow(SQLiteDatabase.java:1596)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at bexn.g(:com.google.android.gms@222615037@22.26.15 (150400-461192076):52)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at bewg.n(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at bewg.u(:com.google.android.gms@222615037@22.26.15 (150400-461192076):20)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at bewg.h(:com.google.android.gms@222615037@22.26.15 (150400-461192076):3)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at berx.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):9)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at xoc.c(:com.google.android.gms@222615037@22.26.15 (150400-461192076):6)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at xoc.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):7)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at xth.run(:com.google.android.gms@222615037@22.26.15 (150400-461192076):0)
+07-22 18:07:52.239  3675  3461 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:923)
+07-22 18:07:53.358  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-12 rssnr=7 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:53.359  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-12 rssnr=7 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:53.359  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:55.609  2659  2802 D NetworkController.MobileSignalController(1): onSignalStrengthsChanged signalStrength=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-10 rssnr=9 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} level=3
+07-22 18:07:55.610  2659  2802 D NetworkController.MobileSignalController(1): updateTelephonySignalStrength: hasService=true ss=SignalStrength:{mCdma=CellSignalStrengthCdma: cdmaDbm=2147483647 cdmaEcio=2147483647 evdoDbm=2147483647 evdoEcio=2147483647 evdoSnr=2147483647 miuiLevel=0 level=0,mGsm=CellSignalStrengthGsm: rssi=2147483647 ber=2147483647 mTa=2147483647 miuiLevel=0 mLevel=0,mWcdma=CellSignalStrengthWcdma: ss=2147483647 ber=2147483647 rscp=2147483647 ecno=2147483647 miuiLevel=0 level=0,mTdscdma=CellSignalStrengthTdscdma: rssi=2147483647 ber=2147483647 rscp=2147483647 miuiLevel=0 level=0,mLte=CellSignalStrengthLte: rssi=-75 rsrp=-103 rsrq=-10 rssnr=9 cqi=2147483647 ta=2147483647 miuiLevel=4 level=3 parametersUseForLevel=0,mNr=CellSignalStrengthNr:{ csiRsrp = 2147483647 csiRsrq = 2147483647 csiSinr = 2147483647 ssRsrp = 2147483647 ssRsrq = 2147483647 ssSinr = 2147483647 miuiLevel = 0 level = 0 parametersUseForLevel = 0 },primary=CellSignalStrengthLte} displayInfo=TelephonyDisplayInfo {network=LTE, override=NONE}
+07-22 18:07:55.610  2659  2802 D NetworkController.MobileSignalController(1): NotQcom5G, signal level = 4
+07-22 18:07:56.056  2789  2789 D QtiCarrierConfigHelper: WARNING, no carrier configs on phone Id: 0
+07-22 18:07:56.059  4996  4996 I BatteryInfoReceiver: ACTION_BATTERY_CHANGED
+07-22 18:07:56.062  5646  5787 D PowerCheckerService: onBatteryChanged, mBatteryLevel = 68, status = 2, level = 68, plug = 1, scale = 100
+07-22 18:07:56.065  2659  2659 D KeyguardUpdateMonitor: received broadcast android.intent.action.BATTERY_CHANGED
+07-22 18:07:56.068  2852  2852 D DeviceStatisticsService: chargerType=1 batteryLevel=68 totalBatteryCapacity=4743200
+07-22 18:07:56.068  2852  2852 D DeviceInfoHidlClient: isPowerInfoNeverSent()=true
+07-22 18:07:56.068  2852  2852 D DeviceInfoHidlClient: getPowerInfoSupportStatus()=-1
+07-22 18:07:56.068  2659  2659 D BatteryController: onReceive: Intent = Intent { act=android.intent.action.BATTERY_CHANGED flg=0x60000010 (has extras) } action = android.intent.action.BATTERY_CHANGED
+07-22 18:07:56.632   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentDirectBootAwareApiService and for client com.google.android.apps.turbo
+07-22 18:07:56.633   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.PersistentDirectBootAwareApiServiceafter removal is 10
+07-22 18:07:56.633   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.apps.turboafter removal is 1
+07-22 18:07:56.641   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.google.android.gms/.chimera.PersistentApiService and for client com.google.android.apps.turbo
+07-22 18:07:56.641   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of service connections for service: com.google.android.gms/.chimera.PersistentApiServiceafter removal is 9
+07-22 18:07:56.641   974  2754 I vendor.qti.hardware.servicetracker@1.2-service: size of client connections for client: com.google.android.apps.turboafter removal is 0
+07-22 18:07:57.323  1817  2395 D MiuiNetworkPolicy: updateLimit mLimitEnabled=true,enabled=false,mNetworkPriorityMode=0
+07-22 18:07:57.787   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1336
+07-22 18:07:57.800   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1311
+07-22 18:07:57.811   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1287
+07-22 18:07:57.816   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1263
+07-22 18:07:57.823   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1239
+07-22 18:07:57.829   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1215
+07-22 18:07:57.835   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1191
+07-22 18:07:57.844   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1167
+07-22 18:07:57.853   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1143
+07-22 18:07:57.862   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1119
+07-22 18:07:57.870   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1095
+07-22 18:07:57.878   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1071
+07-22 18:07:57.887   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1047
+07-22 18:07:57.896   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 1023
+07-22 18:07:57.903   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 999
+07-22 18:07:57.912   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 975
+07-22 18:07:57.919   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 951
+07-22 18:07:57.928   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 926
+07-22 18:07:57.937   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 903
+07-22 18:07:57.946   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 878
+07-22 18:07:57.955   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 854
+07-22 18:07:57.962   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 830
+07-22 18:07:57.971   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 806
+07-22 18:07:57.977   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 782
+07-22 18:07:57.986   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 758
+07-22 18:07:57.993   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 734
+07-22 18:07:58.003   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 710
+07-22 18:07:58.013   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 685
+07-22 18:07:58.021   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 661
+07-22 18:07:58.028   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 637
+07-22 18:07:58.035   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 613
+07-22 18:07:58.045   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 589
+07-22 18:07:58.054   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 565
+07-22 18:07:58.062   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 541
+07-22 18:07:58.071   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 517
+07-22 18:07:58.079   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 493
+07-22 18:07:58.087   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 469
+07-22 18:07:58.095   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 445
+07-22 18:07:58.104   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 421
+07-22 18:07:58.116   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 397
+07-22 18:07:58.122   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 373
+07-22 18:07:58.129   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 349
+07-22 18:07:58.136   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 325
+07-22 18:07:58.144   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 301
+07-22 18:07:58.155   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 277
+07-22 18:07:58.160   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 252
+07-22 18:07:58.170   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 228
+07-22 18:07:58.176   948   948 E qdlights: set backlight level :path = /sys/class/backlight/panel0-backlight/brightness, value = 206
+07-22 18:07:58.334  5091  5143 E TestRunner: failed: grid_list_button_is_displayed(com.example.dogglers.ButtonTests)
+07-22 18:07:58.334  5091  5143 E TestRunner: ----- begin exception -----
+07-22 18:07:58.336  5091  5143 E TestRunner: java.lang.AssertionError: Activity never becomes requested state "[DESTROYED, CREATED, RESUMED, STARTED]" (last lifecycle transition = "PRE_ON_CREATE")
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.core.app.ActivityScenario.waitForActivityToBecomeAnyOf(ActivityScenario.java:338)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launchInternal(ActivityScenario.java:272)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.core.app.ActivityScenario.launch(ActivityScenario.java:195)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.lambda$new$0$ActivityScenarioRule(ActivityScenarioRule.java:70)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule$$Lambda$0.get(ActivityScenarioRule.java:70)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.ext.junit.rules.ActivityScenarioRule.before(ActivityScenarioRule.java:103)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:46)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+07-22 18:07:58.336  5091  5143 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2213)
+07-22 18:07:58.336  5091  5143 E TestRunner: ----- end exception -----
+07-22 18:07:58.344  5091  5143 I TestRunner: finished: grid_list_button_is_displayed(com.example.dogglers.ButtonTests)

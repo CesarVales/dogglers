@@ -16,9 +16,15 @@
 package com.example.dogglers.adapter
 
 import android.content.Context
+import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.dogglers.R
+import com.example.dogglers.const.Layout
+import com.example.dogglers.data.DataSource
 
 /**
  * Adapter to inflate the appropriate list item layout and populate the view with information
@@ -28,14 +34,20 @@ class DogCardAdapter(
     private val context: Context?,
     private val layout: Int
 ): RecyclerView.Adapter<DogCardAdapter.DogCardViewHolder>() {
-
     // TODO: Initialize the data using the List found in data/DataSource
-
+    val dogsList = DataSource.dogs
     /**
      * Initialize view elements
      */
     class DogCardViewHolder(view: View?): RecyclerView.ViewHolder(view!!) {
+
         // TODO: Declare and initialize all of the list item UI components
+        val textViewName: TextView = itemView.findViewById(R.id.tv_dog_name)
+        val textViewAge: TextView = itemView.findViewById(R.id.tv_dog_age)
+        val textViewHobbie: TextView = itemView.findViewById(R.id.tv_dog_hobbies)
+        val  imageview: ImageView = itemView.findViewById(R.id.im_dog_img)
+
+
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DogCardViewHolder {
@@ -45,19 +57,32 @@ class DogCardAdapter(
 
         // TODO Inflate the layout
 
+        val card: View =  when (viewType) {
+            Layout.VERTICAL -> LayoutInflater.from(parent.context).inflate(R.layout.vertical_horizontal_list_item,parent,false)
+           Layout.HORIZONTAL-> LayoutInflater.from(parent.context).inflate(R.layout.vertical_horizontal_list_item,parent,false)
+            else -> LayoutInflater.from(parent.context).inflate(R.layout.grid_list_item,parent,false)
+        }
+
         // TODO: Null should not be passed into the view holder. This should be updated to reflect
         //  the inflated layout.
-        return DogCardViewHolder(null)
+        //return DogCardViewHolder(null)
+        return DogCardViewHolder(card)
     }
 
-    override fun getItemCount(): Int = 0 // TODO: return the size of the data set instead of 0
+    override fun getItemCount(): Int = dogsList.size
+    // TODO: return the size of the data set instead of 0
 
     override fun onBindViewHolder(holder: DogCardViewHolder, position: Int) {
         // TODO: Get the data at the current position
+        val currentItem = dogsList[position]
         // TODO: Set the image resource for the current dog
+        holder.imageview.setImageResource(currentItem.imageResourceId)
         // TODO: Set the text for the current dog's name
+        holder.textViewName.text = currentItem.name
+        holder.textViewAge.text = context?.resources?.getString(R.string.dog_age,currentItem.age)
+
         // TODO: Set the text for the current dog's age
-        val resources = context?.resources
+        holder.textViewHobbie.text = context?.resources?.getString(R.string.dog_hobbies,currentItem.hobbies)
         // TODO: Set the text for the current dog's hobbies by passing the hobbies to the
         //  R.string.dog_hobbies string constant.
         //  Passing an argument to the string resource looks like:
